@@ -1,0 +1,115 @@
+%Example of use of Time Domain Astrophysics latex class
+\documentclass{tda}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{hyperref}
+\usepackage[
+bibstyle=nature,
+giveninits=true,
+sorting=none,
+natbib=true,
+doi=false,
+eprint=false,
+url=false,
+hyperref=true,
+date=year
+]{biblatex}
+\addbibresource{references.bib}
+\renewbibmacro{in:}{}
+
+\AtEveryBibitem{%
+	\clearfield{note}%
+}
+
+\usepackage[font=footnotesize,labelfont=bf]{caption}
+\captionsetup{width=\columnwidth}
+
+\DeclareUnicodeCharacter{2212}{-}
+\DeclareUnicodeCharacter{2121}{tel}
+
+%define the page header/title info
+\course{Time Domain Astrophysics --- 2020/21 --- Case Study Coursework} %DON'T EDIT ME!
+
+%%%%%%%%%%%%%%%%%%% Change this bit
+\topic{Tidal Disruption Events} %DO EDIT ME! Enter the chosen topic, e.g., `Luminous Red Novae'
+
+\begin{document}
+
+\abstract{
+Current researches support the possibility that every large galaxy contains a super-massive black hole (SMBH) at its centre. Given that black holes cannot be observed directly, we need to rely upon indirect methods to test their presence. Study of motion of stars in their vicinity near the centres of galaxies like our Milky Way, has helped gather evidence of their presence. On the other hand, study of \emph{tidal disruption events} which occur due to gravitational influence of SMBH on very nearby stars, is another way to probe galactic centres to investigate presence of SMBH. This study focusses on such tidal disruption events, which are transient events that have assisted in understanding numerous phenomena like accretion  disks, dynamics of black holes, properties and evolution of stars near galactic centres, etc.
+}
+
+\section{Introduction}
+
+Motion of stars in central regions of galaxies is influenced by gravitational forces due to other stars as well as blackhole at the centre. If a star passes very close to the central blackhole, tidal forces on the star may structurally disrupt it. This event is called \emph{tidal disruption event} (TDE). These tidal forces are essentially similar in nature to the ones witnessed between earth and moon, that cause tides on earth. 
+
+One condition for tidal disruption to occur is that the star should be close enough to the blackhole for tidal forces acting on it to be comparable to its self-gravity \cite{hills_possible_1975}. In that case, 
+\[\frac{G m^2}{a^2} \approx \frac{G M m}{r_{tidal}^3} a\]
+where \(G\) is universal gravitational constant, \(m\) is the mass of star, \(M\) is the mass of blackhole, \(a\) is the radius of star and \(r_{tidal}\) is the minimum pericentre distance between star and blackhole at which tidal disruption occurs, called the \emph{tidal radius}. From this, tidal radius can be calculated as \cite{rees_tidal_1988}, 
+\begin{equation}
+	\Rightarrow r_{tidal} = \left( \frac{M}{m} \right) ^{\frac{1}{3}} a
+	\label{eq:tidal_radius}
+\end{equation}
+
+\noindent The Schwarzschild radius of a blackhole is given by,
+\begin{equation}
+	r_{BH} = \frac{2GM}{c^2},
+	\label{eq:blackhole_radius}
+\end{equation}
+where \(c\) is the speed of light. From equations \ref{eq:tidal_radius} and \ref{eq:blackhole_radius}, we can compare the dependence of the two distances on blackhole mass, given by,
+\begin{equation}
+	r_{tidal} \propto M^\frac{1}{3}
+	\label{eq:tidal_radius_proportionality}
+\end{equation}
+\begin{equation}
+	r_{BH} \propto M
+	\label{eq:blackhole_radius_proportionality}
+\end{equation}
+Therefore, beyond a certain mass of blackhole, i.e. \(\sim10^8 M_{\odot}\) (\(\sim10^9 M_{\odot}\) upon considering relativistic effects) for a \(1 M_{\odot}\) star, the tidal disruption radius lies inside of blackhole event horizon radius. In such a case, no observable tidal disruption feature is expected.
+
+For a star moving in parabolic orbit around blackhole, after tidal disruption, roughly half of stellar matter possesses positive potential energy and flies of unbound, while the other half has negative potential energy and stays in bound elliptical orbits around the blackhole. This bound matter follows Keplerian orbit of period \(t\) with corresponding energy given by,
+\begin{equation}
+	E = -\frac{1}{2} \left( \frac{2 \pi G M_{BH}}{t} \right)^\frac{2}{3}
+	\label{eq:keplerian_energy}
+\end{equation}
+
+\begin{figure}
+	\caption{mass in orbits from rees 1988}
+\end{figure}
+
+
+\section{General Observational Characteristics}
+
+A TDE is a luminous transient event with peak bolometric luminosity \(\sim 10^{41} - 10^{44}\) \(ergs\) \(s^{-1}\) \cite{lodato_multiband_2011, bonnerot_simulating_2020}. The variation of luminosity with time correlates with the mass accretion rate which is numerically equal to the rate of return of bound disrupted mass \cite{phinney_manifestations_1989}. This rate can be obtained using equation \ref{eq:keplerian_energy} as,
+\begin{equation}
+	\frac{dM}{dt} = \frac{dM}{dE} \frac{dE}{dt} = k \frac{dM}{dE} t^{-5/3},
+	\label{eq:tde_luminosity_time}
+\end{equation}
+where, \[k=\frac{\left({2 \pi G M_{BH}}\right)^{\frac{2}{3}}}{3}\]
+
+\noindent In the case of complete disruption of star in a close encounter, considered in \cite{evans_tidal_1989, lodato_stellar_2009}, the energy distribution through the mass is uniform (i.e. \(\frac{dM}{dE} = \) constant). Hence, in that case, \(L \propto \dot{M} \propto t^{5/3}\). In reality, this relation holds true for bolometric luminosities only at later times \cite{lodato_stellar_2009, lodato_multiband_2011} and is taken to be the characteristic observational signature of a TDE, while at early times, this rate correlates strongly with the type of disrupted star and its properties \cite{lodato_stellar_2009, lodato_recent_2015, guillochon_hydrodynamical_2013}. 
+
+Recently, very few TDEs have been observed to exhibit another observable feature -- relativistic jets \cite{lodato_recent_2015}. Some models have linked jet formation to strong magnetic fields and blackhole spin \cite{dai_unified_2018}. Jets are not observed generally, but in cases where they have been observed, they have provided insights into the conditions around blackholes.
+
+Theoretical models expect TDEs to occur at a rate of \(\sim 10^{-4}\) events per year per galaxy. However, observations of the past decades provide an estimate roughly an order of magnitude lower, at \(\sim 10^{-5}\) events per year per galaxy \cite{stone_rates_2016}, possibly due to selection effects and observational limitations.
+
+\begin{figure}
+	\caption{lodato 2009 fig1}
+\end{figure}
+
+\section{Multi-wavelength Observations}
+
+\subsection{X-rays}
+
+\subsection{Ultraviolet \& Optical}
+
+\subsection{Radio}
+
+\section{Physical interpretation}
+
+\section{Summary}
+
+\printbibliography
+
+\end{document}

@@ -1,0 +1,629 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{hills_possible_1975}{article}{}
+      \name{author}{1}{}{%
+        {{hash=66d4bbc842ac7a9568204100bf31a828}{%
+           family={Hills},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{66d4bbc842ac7a9568204100bf31a828}
+      \strng{fullhash}{66d4bbc842ac7a9568204100bf31a828}
+      \strng{bibnamehash}{66d4bbc842ac7a9568204100bf31a828}
+      \strng{authorbibnamehash}{66d4bbc842ac7a9568204100bf31a828}
+      \strng{authornamehash}{66d4bbc842ac7a9568204100bf31a828}
+      \strng{authorfullhash}{66d4bbc842ac7a9568204100bf31a828}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The possible presence of massive black holes in the nuclei of galaxies has been suggested many times. In addition, there is considerable observational evidence for high stellar densities in these nuclei. I show that the tidal breakup of stars passing within the Roche limit of a black hole initiates a chain of events that may explain many of the observed principal characteristics of {QSOs} and the nuclei of Seyfert galaxies.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{Number: 5498 Publisher: Nature Publishing Group}
+      \field{number}{5498}
+      \field{title}{Possible power source of Seyfert galaxies and {QSOs}}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{254}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{295\bibrangedash 298}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/254295a0
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/saksham/Zotero/storage/V3TWVP9H/Hills - 1975 - Possible power source of Seyfert galaxies and QSOs.pdf:application/pdf;Snapshot:/home/saksham/Zotero/storage/8CNC5GA3/254295a0.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/254295a0
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/254295a0
+      \endverb
+    \endentry
+    \entry{rees_tidal_1988}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b991574de4846e67022005d1addab500}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Martin\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b991574de4846e67022005d1addab500}
+      \strng{fullhash}{b991574de4846e67022005d1addab500}
+      \strng{bibnamehash}{b991574de4846e67022005d1addab500}
+      \strng{authorbibnamehash}{b991574de4846e67022005d1addab500}
+      \strng{authornamehash}{b991574de4846e67022005d1addab500}
+      \strng{authorfullhash}{b991574de4846e67022005d1addab500}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Stars in galactic nuclei can be captured or tidally disrupted by a central black hole. Some debris would be ejected at high speed', the remainder would be swallowed by the hole, causing a bright flare lasting at most a few years. Such phenomena are compatible with the presence of 106–108 M⊙ holes in the nuclei of many nearby galaxies. Stellar disruption may have interesting consequences in our own Galactic Centre if a ∼106 M⊙ hole lurks there.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{note}{Number: 6173 Publisher: Nature Publishing Group}
+      \field{number}{6173}
+      \field{title}{Tidal disruption of stars by black holes of 10 6 -10 8 solar masses in nearby galaxies}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{333}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{523\bibrangedash 528}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/333523a0
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/saksham/Zotero/storage/6BR47HBF/333523a0.html:text/html;Full Text PDF:/home/saksham/Zotero/storage/DEZZBLR7/Rees - 1988 - Tidal disruption of stars by black holes of 10 6 –.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/333523a0
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/333523a0
+      \endverb
+    \endentry
+    \entry{lodato_multiband_2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5a247a6ad2d3c2a4a2d7fa645e528814}{%
+           family={Lodato},
+           familyi={L\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f8d30d3bae98913ff90614c20cc94a81}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Elena\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \strng{fullhash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \strng{bibnamehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \strng{authorbibnamehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \strng{authornamehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \strng{authorfullhash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Unambiguous detection of the tidal disruption of a star would allow an assessment of the presence and masses of supermassive black holes in quiescent galaxies. It would also provide invaluable information on bulge-scale stellar processes (such as two-body relaxation) via the rate at which stars are injected into the tidal sphere of inﬂuence of the black holes. This rate, in turn, is essential to predict gravitational radiation emission by compact object inspirals. The signature of a tidal disruption event is thought to be a fallback rate for the stellar debris on to the black hole that decreases as t−5/3. This mass ﬂux is often assumed to yield a luminous signal that decreases in time at the same rate. In this paper, we calculate the monochromatic light curves arising from such an accretion event. Differently from previous studies, we adopt a more realistic description of the fallback rate and of the super-Eddington accretion physics. We also provide simultaneous light curves in optical, ultraviolet ({UV}) and X-rays. We show that, after a few months, optical and {UV} light curves scale as t−5/12, and are thus substantially ﬂatter than the t−5/3 behaviour, which is a prerogative of the bolometric light curve, only. At earlier times and for black hole masses <107 M , the wind emission dominates: after reaching a peak of 1041–1043 erg s−1 at roughly a month, the light curve decreases steeply as ∼t−2.6, until the disc contribution takes over. The X-ray band, instead, is the best place to detect the t−5/3 ‘smoking gun’ behaviour, although it is displayed only for roughly a year, before the emission steepens exponentially.}
+      \field{day}{1}
+      \field{issn}{00358711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Multiband light curves of tidal disruption events}
+      \field{title}{Multiband light curves of tidal disruption events: Tidal disruption events}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{410}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{359\bibrangedash 367}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2010.17448.x
+      \endverb
+      \verb{file}
+      \verb Lodato and Rossi - 2011 - Multiband light curves of tidal disruption events.pdf:/home/saksham/Zotero/storage/UUHWJ62E/Lodato and Rossi - 2011 - Multiband light curves of tidal disruption events.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2010.17448.x
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2010.17448.x
+      \endverb
+    \endentry
+    \entry{bonnerot_simulating_2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f7be798a4c1ba25897629db74b2dd646}{%
+           family={Bonnerot},
+           familyi={B\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a205db9c436a2ef1be4fd90e48aeb0a7}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Wenbin},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3182b9af81d6017a07cf4126390aebd}
+      \strng{fullhash}{f3182b9af81d6017a07cf4126390aebd}
+      \strng{bibnamehash}{f3182b9af81d6017a07cf4126390aebd}
+      \strng{authorbibnamehash}{f3182b9af81d6017a07cf4126390aebd}
+      \strng{authornamehash}{f3182b9af81d6017a07cf4126390aebd}
+      \strng{authorfullhash}{f3182b9af81d6017a07cf4126390aebd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A star coming too close to a supermassive black hole gets disrupted by the tidal force of the compact object in a tidal disruption event, or {TDE}. Following this encounter, the debris evolves into an elongated stream, half of which coming back to pericentre. Relativistic apsidal precession then leads to a self-crossing shock that initiates the formation of an accretion disc. We perform the first simulation of this process considering a parabolic encounter with a supermassive black hole, which has so far eluded investigations for computational reasons. This numerical issue is alleviated by using as initial conditions the outflow launched by the self-crossing shock according the local simulation of Lu \&amp; Bonnerot (2020). We find that the gas leaving the intersection point experiences numerous secondary shocks that result in the rapid formation of a thick and marginally bound disc. The mass distribution features two overdensities identified as spiral shocks that drive slow gas inflow along the mid-plane. Inward motion primarily takes place along the funnels of the newly formed torus, from which a fraction of the matter can get accreted. Further out, the gas moves outward forming an extended envelope completely surrounding the accretion flow. Secondary shocks heat the debris at a rate of a few times \$10{\textasciicircum}\{44\} {\textbackslash}, {\textbackslash}rm erg{\textbackslash}, s{\textasciicircum}\{-1\}\$ with a large fraction likely participating to the bolometric luminosity. These results pave the way towards a complete understanding of the early radiation from {TDEs} that progressively becomes accessible from observations.}
+      \field{day}{11}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{6}
+      \field{number}{1}
+      \field{shortjournal}{Monthly Notices of the Royal Astronomical Society}
+      \field{title}{Simulating disc formation in tidal disruption events}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{495}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1374\bibrangedash 1391}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1093/mnras/staa1246
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/saksham/Zotero/storage/X2GPBP8G/Bonnerot and Lu - 2020 - Simulating disc formation in tidal disruption even.pdf:application/pdf;Snapshot:/home/saksham/Zotero/storage/Z3F7JT6M/5831721.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/staa1246
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/staa1246
+      \endverb
+    \endentry
+    \entry{phinney_manifestations_1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ab3f273aee517e8eedc702da5e155f64}{%
+           family={Phinney},
+           familyi={P\bibinitperiod},
+           given={E.S.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab3f273aee517e8eedc702da5e155f64}
+      \strng{fullhash}{ab3f273aee517e8eedc702da5e155f64}
+      \strng{bibnamehash}{ab3f273aee517e8eedc702da5e155f64}
+      \strng{authorbibnamehash}{ab3f273aee517e8eedc702da5e155f64}
+      \strng{authornamehash}{ab3f273aee517e8eedc702da5e155f64}
+      \strng{authorfullhash}{ab3f273aee517e8eedc702da5e155f64}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A young star cluster is a less contrived explanation than a massive black hole for many of the features seen in the Galactic center. However from a Copernican point of view, this explanation is less attractive than a black hole. The evidence for a {\textasciitilde} 10GM© black hole is becoming progressively less convincing, but the case against it is no stronger. We describe the development of a singular star cluster, as well as the processes of stellar disruption, merging, and gas accretion in such a cluster. Recently merged stars and tidally stripped giants may be detectable within an arcminute of the Galactic Center. We examine the physics of star formation in the inner parsecs of the galaxy, and the problem of maintaining the two parsec molecular torus.}
+      \field{issn}{0074-1809}
+      \field{journaltitle}{Symposium - International Astronomical Union}
+      \field{langid}{english}
+      \field{shortjournal}{Symp. - Int. Astron. Union}
+      \field{title}{Manifestations of a Massive Black Hole in the Galactic Center}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{136}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{543\bibrangedash 553}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/S0074180900187054
+      \endverb
+      \verb{file}
+      \verb Phinney - 1989 - Manifestations of a Massive Black Hole in the Gala.pdf:/home/saksham/Zotero/storage/DB2LUGB9/Phinney - 1989 - Manifestations of a Massive Black Hole in the Gala.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S0074180900187054/type/journal_article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S0074180900187054/type/journal_article
+      \endverb
+    \endentry
+    \entry{evans_tidal_1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=14c15a0cb4ffc9ce59f08ecd9fd1dc89}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Charles\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=05848ee35faed053a4eb9c9dec4876e2}{%
+           family={Kochanek},
+           familyi={K\bibinitperiod},
+           given={Christopher\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \strng{fullhash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \strng{bibnamehash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \strng{authorbibnamehash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \strng{authornamehash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \strng{authorfullhash}{23e549a3b0b08c7b476cb7a1e1975c33}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a three-dimensional, numerical calculation of the tidal disruption of a low-mass main-sequence star on a parabolic orbit around a massive black hole (Mh = K{\textasciicircum}M*). The postdisruption evolution is followed until hydrodynamic forces become negligible and the liberated gas becomes ballistic. We give the rate at which bound mass returns to pericenter after orbiting the hole once. We discuss processes that determine the time scale to circularize the debris orbits and allow an accretion torus to form. This time scale and the time scales for radiative cooling and accretion inflow determine the onset and duration of the subsequent flare in the {AGN} luminosity.}
+      \field{issn}{0004-637X, 1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{The tidal disruption of a star by a massive black hole}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{346}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{L13}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/185567
+      \endverb
+      \verb{file}
+      \verb Evans and Kochanek - 1989 - The tidal disruption of a star by a massive black .pdf:/home/saksham/Zotero/storage/9JZWTKSL/Evans and Kochanek - 1989 - The tidal disruption of a star by a massive black .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://adsabs.harvard.edu/doi/10.1086/185567
+      \endverb
+      \verb{url}
+      \verb http://adsabs.harvard.edu/doi/10.1086/185567
+      \endverb
+    \endentry
+    \entry{lodato_stellar_2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9dfa576f798d155aff2ce395d54613c6}{%
+           family={Lodato},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2da80fe021bbb1a6ad108dd69173a1b2}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7637be2dfcf86393de6d496168cdec24}{%
+           family={Pringle},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{381cca9969de8fb3e5f9c67da11880d4}
+      \strng{fullhash}{afb1a3af9dc1076e203ad35f0b4803e1}
+      \strng{bibnamehash}{afb1a3af9dc1076e203ad35f0b4803e1}
+      \strng{authorbibnamehash}{afb1a3af9dc1076e203ad35f0b4803e1}
+      \strng{authornamehash}{381cca9969de8fb3e5f9c67da11880d4}
+      \strng{authorfullhash}{afb1a3af9dc1076e203ad35f0b4803e1}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper, we revisit the arguments for the basis of the time evolution of the flares expected to arise when a star is disrupted by a supermassive black hole. We present a simple analytic model relating the light curve to the internal density structure of the star. We thus show that the standard light curve proportional to t−5/3 only holds at late times. Close to the peak luminosity the light curve is shallower, deviating more strongly from t−5/3 for more centrally concentrated (e.g. solar type) stars. We test our model numerically by simulating the tidal disruption of several stellar models, described by simple polytropic spheres with index γ. The simulations agree with the analytical model given two considerations. First, the stars are somewhat inflated on reaching pericentre because of the effective reduction of gravity in the tidal field of the black hole. This is well described by a homologous expansion by a factor which becomes smaller as the polytropic index becomes larger. Secondly, for large polytropic indices wings appear in the tails of the energy distribution, indicating that some material is pushed further away from parabolic orbits by shocks in the tidal tails. In all our simulations, the t−5/3 light curve is achieved only at late stages. In particular, we predict that for solar-type stars, this happens only after the luminosity has dropped by at least 2 mag from the peak. We discuss our results in the light of recent observations of flares in otherwise quiescent galaxies and note the dependence of these results on further parameters, such as the star/hole mass ratio and the stellar orbit.}
+      \field{day}{1}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Monthly Notices of the Royal Astronomical Society}
+      \field{shorttitle}{Stellar disruption by a supermassive black hole}
+      \field{title}{Stellar disruption by a supermassive black hole: is the light curve really proportional to t−5/3?}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{392}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{332\bibrangedash 340}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2008.14049.x
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/saksham/Zotero/storage/Z2W5IK28/Lodato et al. - 2009 - Stellar disruption by a supermassive black hole i.pdf:application/pdf;Snapshot:/home/saksham/Zotero/storage/AMXK29KH/1073316.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1365-2966.2008.14049.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1365-2966.2008.14049.x
+      \endverb
+    \endentry
+    \entry{lodato_recent_2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5a247a6ad2d3c2a4a2d7fa645e528814}{%
+           family={Lodato},
+           familyi={L\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8214093e18128add9390d968414a583}{%
+           family={Franchini},
+           familyi={F\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b1d2d19c925a10daccc16c02bceb6307}{%
+           family={Bonnerot},
+           familyi={B\bibinitperiod},
+           given={Clement},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f8d30d3bae98913ff90614c20cc94a81}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Elena\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ebfe2b54fd2c13b614546c001d750fb}
+      \strng{fullhash}{f0a3c1c434b369735b6ca5fe51d98751}
+      \strng{bibnamehash}{f0a3c1c434b369735b6ca5fe51d98751}
+      \strng{authorbibnamehash}{f0a3c1c434b369735b6ca5fe51d98751}
+      \strng{authornamehash}{2ebfe2b54fd2c13b614546c001d750fb}
+      \strng{authorfullhash}{f0a3c1c434b369735b6ca5fe51d98751}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we will review some recent developments in the theory of Tidal Disruption Events ({TDE}). In particular, we discuss how recent work has led to a reconsideration of the time evolution of the debris of the disrupted star, which in turn determines the lightcurve of the event. We discuss the efforts being currently made to understand how an accretion disc forms around these objects. Finally, we discuss whether we can expect these systems to undergo rigid precession as a consequence of the Lense–Thirring torques produced by a spinning black hole.}
+      \field{day}{1}
+      \field{issn}{2214-4048}
+      \field{journaltitle}{Journal of High Energy Astrophysics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{series}{Swift 10 Years of Discovery, a novel approach to Time Domain Astronomy}
+      \field{shortjournal}{Journal of High Energy Astrophysics}
+      \field{title}{Recent developments in the theory of tidal disruption events}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{7}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{158\bibrangedash 162}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.jheap.2015.04.003
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/saksham/Zotero/storage/Z7D5LR7B/Lodato et al. - 2015 - Recent developments in the theory of tidal disrupt.pdf:application/pdf;ScienceDirect Snapshot:/home/saksham/Zotero/storage/M7S4NCUJ/S2214404815000130.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214404815000130
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214404815000130
+      \endverb
+      \keyw{Accretion,Accretion discs,Black hole physics,Hydrodynamics}
+    \endentry
+    \entry{guillochon_hydrodynamical_2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=00433ae04c0b9a12c428b269f5ef47dd}{%
+           family={Guillochon},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d995efb3484833e77f1122c9505a06aa}{%
+           family={Ramirez-Ruiz},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{21f4f2999324f72f837edb6b398da15a}
+      \strng{fullhash}{21f4f2999324f72f837edb6b398da15a}
+      \strng{bibnamehash}{21f4f2999324f72f837edb6b398da15a}
+      \strng{authorbibnamehash}{21f4f2999324f72f837edb6b398da15a}
+      \strng{authornamehash}{21f4f2999324f72f837edb6b398da15a}
+      \strng{authorfullhash}{21f4f2999324f72f837edb6b398da15a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The disruption of stars by supermassive black holes has been linked to more than a dozen flares in the cores of galaxies out to redshift z ∼ 0.4. Modeling these flares properly requires a prediction of the rate of mass return to the black hole after a disruption. Through hydrodynamical simulation, we show that aside from the full disruption of a solar mass star at the exact limit where the star is destroyed, the common assumptions used to estimate , the rate of mass return to the black hole, are largely invalid. While the analytical approximation to tidal disruption predicts that the least-centrally concentrated stars and the deepest encounters should have more quickly-peaked flares, we find that the most-centrally concentrated stars have the quickest-peaking flares, and the trend between the time of peak and the impact parameter for deeply penetrating encounters reverses beyond the critical distance at which the star is completely destroyed. We also show that the most-centrally concentrated stars produced a characteristic drop in shortly after peak when a star is only partially disrupted, with the power law index n being as extreme as −4 in the months immediately following the peak of a flare. Additionally, we find that n asymptotes to ≃ − 2.2 for both low- and high-mass stars for approximately half of all stellar disruptions. Both of these results are significantly steeper than the typically assumed n = −5/3. As these precipitous decay rates are only seen for events in which a stellar core survives the disruption, they can be used to determine if an observed tidal disruption flare produced a surviving remnant. We provide fitting formulae for four fundamental quantities of tidal disruption as functions of the star's distance to the black hole at pericenter and its stellar structure: the total mass lost, the time of peak, the accretion rate at peak, and the power-law index shortly after peak. These results should be taken into consideration when flares arising from tidal disruptions are modeled.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{Publisher: American Astronomical Society}
+      \field{number}{1}
+      \field{shortjournal}{{ApJ}}
+      \field{shorttitle}{{HYDRODYNAMICAL} {SIMULATIONS} {TO} {DETERMINE} {THE} {FEEDING} {RATE} {OF} {BLACK} {HOLES} {BY} {THE} {TIDAL} {DISRUPTION} {OF} {STARS}}
+      \field{title}{{Hydrodynamical} {simulations} {to} {determine} {the} {feeding} {rate} {of} {black} {holes} {by} {the} {tidal} {disruption} {of} {stars}: {the} {importance} {of} {the} {impact} {parameter} {and} {stellar} {structure}}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{767}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{25}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0004-637X/767/1/25
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/saksham/Zotero/storage/LG9ILYAJ/Guillochon and Ramirez-Ruiz - 2013 - HYDRODYNAMICAL SIMULATIONS TO DETERMINE THE FEEDIN.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/0004-637x/767/1/25
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/0004-637x/767/1/25
+      \endverb
+    \endentry
+    \entry{dai_unified_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f7e942e2890ebbe5d71b34ea5c74a941}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Lixin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e4475cf8552ae1a2138808f00138cc64}{%
+           family={{McKinney}},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=09d8e90713de44633e54220e8152c365}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d995efb3484833e77f1122c9505a06aa}{%
+           family={Ramirez-Ruiz},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+        {{hash=020aa463ac563e673212c4cd71aac941}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi Coleman},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f178893165bbb2cbe3dbc4a14d9c7d4}
+      \strng{fullhash}{7106aa434fda75a6f0582c405a0d10e1}
+      \strng{bibnamehash}{7106aa434fda75a6f0582c405a0d10e1}
+      \strng{authorbibnamehash}{7106aa434fda75a6f0582c405a0d10e1}
+      \strng{authornamehash}{5f178893165bbb2cbe3dbc4a14d9c7d4}
+      \strng{authorfullhash}{7106aa434fda75a6f0582c405a0d10e1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the past few years wide-field optical and {UV} transient surveys and X-ray telescopes have allowed us to identify a few dozen candidate tidal disruption events ({TDEs}). While in theory the physical processes in {TDEs} are ubiquitous, a few distinct classes of {TDEs} have been observed. Some {TDEs} radiate mainly in {NUV}/optical, while others produce prominent X-rays. Moreover, relativistic jets have been observed in only a handful of {TDEs}. This diversity might be related to the details of the super-Eddington accretion and emission physics relevant to {TDE} disks. In this Letter, we utilize novel three-dimensional general relativistic radiation magnetohydrodynamics simulations to study the super-Eddington compact disk phase expected in {TDEs}. Consistent with previous studies, geometrically thick disks, wide-angle optically thick fast outflows, and relativistic jets are produced. The outflow density and velocity depend sensitively on the inclination angle, and hence so does the reprocessing of emission produced from the inner disk. We then use Monte Carlo radiative transfer to calculate the reprocessed spectra and find that that the observed ratio of optical to X-ray fluxes increases with increasing inclination angle. This naturally leads to a unified model for different classes of {TDEs} in which the spectral properties of the {TDE} depend mainly on the viewing angle of the observer with respect to the orientation of the disk.}
+      \field{issn}{2041-8205}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{note}{Publisher: American Astronomical Society}
+      \field{number}{2}
+      \field{shortjournal}{{ApJL}}
+      \field{title}{A Unified Model for Tidal Disruption Events}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{859}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{L20}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/aab429
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/saksham/Zotero/storage/8R6S2ZQB/Dai et al. - 2018 - A Unified Model for Tidal Disruption Events.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3847/2041-8213/aab429
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3847/2041-8213/aab429
+      \endverb
+    \endentry
+    \entry{stone_rates_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=83e91b8699747021148c7eaf7abd330a}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Nicholas\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=de23138ef5e9dda30cd87ea32947c061}{%
+           family={Metzger},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{92ec7344408115fc41baebc545bef769}
+      \strng{fullhash}{92ec7344408115fc41baebc545bef769}
+      \strng{bibnamehash}{92ec7344408115fc41baebc545bef769}
+      \strng{authorbibnamehash}{92ec7344408115fc41baebc545bef769}
+      \strng{authornamehash}{92ec7344408115fc41baebc545bef769}
+      \strng{authorfullhash}{92ec7344408115fc41baebc545bef769}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rates of stellar tidal disruption events ({TDEs}) by supermassive black holes ({SMBHs}) due to two-body relaxation are calculated using a large galaxy sample (N ≈ 200) in order to explore the sensitivity of the {TDE} rates to observational uncertainties, such as the parametrization of galaxy light proﬁles and the stellar mass function. The largest uncertainty arises due to the poorly constrained occupation fraction of {SMBHs} in low-mass galaxies, which otherwise dominate the total {TDE} rate. The detection rate of {TDE} ﬂares by optical surveys is calculated as a function of {SMBH} mass and other observables for several physically motivated models of {TDE} emission. We also quantify the fraction of galaxies that produce deeply penetrating disruption events. If the majority of the detected events are characterized by super-Eddington luminosities (such as disc winds, or synchrotron radiation from an off-axis relativistic jet), then the measured {SMBH} mass distribution will tightly constrain the low-end {SMBH} occupation fraction. If Eddington-limited emission channels dominate, however, then the occupation fraction sensitivity is much less pronounced in a ﬂux-limited survey (although still present in a volume-complete event sample). The {SMBH} mass distribution of the current sample of {TDEs}, though highly inhomogeneous and encumbered by selection effects, already suggests that Eddington-limited emission channels dominate. Even our most conservative rate estimates appear to be in tension with much lower observationally inferred {TDE} rates, and we discuss several possible resolutions to this discrepancy.}
+      \field{day}{1}
+      \field{issn}{1365-2966, 0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Rates of stellar tidal disruption as probes of the supermassive black hole mass function}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{455}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{859\bibrangedash 883}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1093/mnras/stv2281
+      \endverb
+      \verb{file}
+      \verb Stone and Metzger - 2016 - Rates of stellar tidal disruption as probes of the.pdf:/home/saksham/Zotero/storage/9VJ5FNTG/Stone and Metzger - 2016 - Rates of stellar tidal disruption as probes of the.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://academic.oup.com/mnras/article/455/1/859/984391/Rates-of-stellar-tidal-disruption-as-probes-of-the
+      \endverb
+      \verb{url}
+      \verb http://academic.oup.com/mnras/article/455/1/859/984391/Rates-of-stellar-tidal-disruption-as-probes-of-the
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
