@@ -2,6 +2,7 @@
 \documentclass{tda}
 
 \usepackage[utf8]{inputenc}
+\usepackage{subcaption}
 
 \usepackage{hyperref}
 \usepackage[
@@ -42,22 +43,22 @@ Current researches support the possibility that every large galaxy contains a su
 
 \section{Introduction}
 
-Motion of stars in central regions of galaxies is influenced by gravitational forces due to other stars as well as blackhole at the centre. If a star passes very close to the central blackhole, tidal forces on the star may structurally disrupt it. This event is called \emph{tidal disruption event} (TDE). These tidal forces are essentially similar in nature to the ones witnessed between earth and moon, that cause tides on earth. 
+Motion of stars in central regions of galaxies is influenced by gravitational forces due to other stars as well as black hole at the centre. If a star passes very close to the central black hole, tidal forces on the star may structurally disrupt it. This event is called \emph{tidal disruption event} (TDE). These tidal forces are essentially similar in nature to the ones witnessed between earth and moon, that cause tides on earth. 
 
-One condition for tidal disruption to occur is that the star should be close enough to the blackhole for tidal forces acting on it to be comparable to its self-gravity \cite{hills_possible_1975}. In that case, 
+One condition for tidal disruption to occur is that the star should be close enough to the black hole for tidal forces acting on it to be comparable to its self-gravity \cite{hills_possible_1975}. In that case, 
 \[\frac{G m^2}{a^2} \approx \frac{G M m}{r_{tidal}^3} a\]
-where \(G\) is universal gravitational constant, \(m\) is the mass of star, \(M\) is the mass of blackhole, \(a\) is the radius of star and \(r_{tidal}\) is the minimum pericentre distance between star and blackhole at which tidal disruption occurs, called the \emph{tidal radius}. From this, tidal radius can be calculated as \cite{rees_tidal_1988}, 
+where \(G\) is universal gravitational constant, \(m\) is the mass of star, \(M\) is the mass of black hole, \(a\) is the radius of star and \(r_{tidal}\) is the minimum pericentre distance between star and black hole at which tidal disruption occurs, called the \emph{tidal radius}. From this, tidal radius can be calculated as \cite{rees_tidal_1988}, 
 \begin{equation}
 	\Rightarrow r_{tidal} = \left( \frac{M}{m} \right) ^{\frac{1}{3}} a
 	\label{eq:tidal_radius}
 \end{equation}
 
-\noindent The Schwarzschild radius of a blackhole is given by,
+\noindent The Schwarzschild radius of a black hole is given by,
 \begin{equation}
 	r_{BH} = \frac{2GM}{c^2},
 	\label{eq:blackhole_radius}
 \end{equation}
-where \(c\) is the speed of light. From equations \ref{eq:tidal_radius} and \ref{eq:blackhole_radius}, we can compare the dependence of the two distances on blackhole mass, given by,
+where \(c\) is the speed of light. From equations \ref{eq:tidal_radius} and \ref{eq:blackhole_radius}, we can compare the dependence of the two distances on black hole mass, given by,
 \begin{equation}
 	r_{tidal} \propto M^\frac{1}{3}
 	\label{eq:tidal_radius_proportionality}
@@ -66,21 +67,29 @@ where \(c\) is the speed of light. From equations \ref{eq:tidal_radius} and \ref
 	r_{BH} \propto M
 	\label{eq:blackhole_radius_proportionality}
 \end{equation}
-Therefore, beyond a certain mass of blackhole, i.e. \(\sim10^8 M_{\odot}\) (\(\sim10^9 M_{\odot}\) upon considering relativistic effects) for a \(1 M_{\odot}\) star, the tidal disruption radius lies inside of blackhole event horizon radius. In such a case, no observable tidal disruption feature is expected.
+Therefore, beyond a certain mass of black hole, i.e. \(\sim10^8 M_{\odot}\) (\(\sim10^9 M_{\odot}\) upon considering relativistic effects) for a \(1 M_{\odot}\) star, the tidal disruption radius lies inside of black hole event horizon radius. In such a case, no observable tidal disruption feature is expected.
 
 \begin{figure} [h]
-	\caption{fig3 rees 1990}
+	\centering
+	\begin{minipage} {.5\textwidth}
+		\centering
+		\includegraphics[width=0.9\linewidth]{./images/rees1990.png}
+		\caption{fig3 rees 1990}
+	\end{minipage}%
+	\begin{minipage} {.5\textwidth}
+		\centering
+		\includegraphics[width=0.9\linewidth]{./images/rees1988.png}
+		\caption{mass in orbits from rees 1988}
+	\end{minipage}
 \end{figure}
 
-For a star moving in parabolic orbit around blackhole, after tidal disruption, roughly half of stellar matter possesses positive potential energy and flies of unbound, while the other half has negative potential energy and stays in bound elliptical orbits around the blackhole. This bound matter follows Keplerian orbit of period \(t\) with corresponding energy given by,
+For a star moving in parabolic orbit around black hole, after tidal disruption, roughly half of stellar matter possesses positive potential energy and flies of unbound, while the other half has negative potential energy and stays in bound elliptical orbits around the black hole. This bound matter follows Keplerian orbit of period \(t\) with corresponding energy given by,
 \begin{equation}
 	E = -\frac{1}{2} \left( \frac{2 \pi G M_{BH}}{t} \right)^\frac{2}{3}
 	\label{eq:keplerian_energy}
 \end{equation}
 
-\begin{figure}
-	\caption{mass in orbits from rees 1988}
-\end{figure}
+
 
 
 \section{General Observational Characteristics}
@@ -94,15 +103,30 @@ where, \[k=\frac{\left({2 \pi G M_{BH}}\right)^{\frac{2}{3}}}{3}\]
 
 \noindent In the case of complete disruption of star in a close encounter, considered in \cite{evans_tidal_1989, lodato_stellar_2009}, the energy distribution through the mass is uniform (i.e. \(\frac{dM}{dE} = \) constant). Hence, in that case, \(L \propto \dot{M} \propto t^{5/3}\). In reality, this relation holds true for bolometric luminosities only at later times \cite{lodato_stellar_2009, lodato_multiband_2011} and is taken to be the characteristic observational signature of a TDE, while at early times, this rate correlates strongly with the type of disrupted star and its properties \cite{lodato_stellar_2009, lodato_recent_2015, guillochon_hydrodynamical_2013}. This correlation holds till the process of \emph{circularization}, or disk formation occurs. Later, at some point accretion of circularized debris begins, the emission from which follows the \(t^{-5/3}\) law and is therefore a subject of observational interest \cite{piran_disk_2015}.
 
-Recently, very few TDEs have been observed to exhibit another observable feature -- relativistic jets \cite{lodato_recent_2015}. Some models have linked jet formation to strong magnetic fields and blackhole spin \cite{dai_unified_2018}. Jets are not observed generally, but in cases where they have been observed, they have provided insights into the conditions around blackholes.
+Recently, very few TDEs have been observed to exhibit another observable feature -- relativistic jets \cite{lodato_recent_2015}. Some models have linked jet formation to strong magnetic fields and black hole spin \cite{dai_unified_2018}. Jets are not observed generally, but in cases where they have been observed, they have provided insights into the conditions around black holes.
 
-Theoretical models expect TDEs to occur at a rate of \(\sim 10^{-4}\) events per year per galaxy \cite{magorrian_rates_1999}. However, observations of the past decades provide an estimate roughly an order of magnitude lower, at \(\sim 10^{-5}\) events per year per galaxy \cite{stone_rates_2016}, possibly due to selection effects and observational limitations.
+Theoretical models expect TDEs to occur at a rate of \(\sim 10^{-4}\) events per year per galaxy \cite{magorrian_rates_1999}. However, observations of the past decades provide an estimate roughly an order of magnitude lower, at \(\sim 10^{-5}\) events per year per galaxy \cite{stone_rates_2016}, possibly due to selection effects and observational limitations. A rate of \((2.2–17.0) \times 10^{−5}\) per year per galaxy with \(90\%\) confidence interval is calculated using \textit{ASAS-SN} observations \cite{holoien_six_2016}. However, when contribution by faint TDEs along with bias towards bright TDEs is considered, this value rises upto \(1.7_{-1.3}^{+2.7} \times 10^{-4}\) per year per galaxy \cite{hung_sifting_2018}. 
 
 \begin{figure}
-	\caption{lodato 2009 fig1}
+	\begin{subfigure} {.33\linewidth}
+		\centering
+		\includegraphics[width=\textwidth]{./images/lodato_rossi2011.png}
+		\caption{lodato rossi 2011 fig1}
+	\end{subfigure}
+	\begin{subfigure} {.33\linewidth}
+		\centering
+		\includegraphics[width=\textwidth]{./images/lodato2009a.png}
+		\caption{lodato 2009 fig1}
+	\end{subfigure}
+	\begin{subfigure} {.33\linewidth}
+		\centering
+		\includegraphics[width=\textwidth]{./images/lodato2009b.png}
+		\caption{lodato 2009 fig1}
+	\end{subfigure}
 \end{figure}
 
 \section{Multi-wavelength Observations}
+
 
 \subsection{X-rays} \label{subsec:xrays}
 
@@ -110,18 +134,14 @@ The emission from a TDE peaks in the soft X-ray -- UV part of the electromagneti
 
 RXJ1242.6-1119 and TDE in the galaxy NGC 5905 have been extensively studied over long term and can be considered as representative cases of general TDE observations. X-ray luminosity increased over the initial few days, with peak in soft X-ray band, which decreased over the next months and years by factor of few thousands as the peak shifted towards the hard X-ray band. The X-ray luminosity decline followed the \(t^{-5/3}\) law \cite{komossa_tidal_2015} as seen in figure \ref{fig:xray_luminosity}.
 
-Subsequent searches of X-ray observatories databases, especially \textit{ROSAT} and \textit{XMM Newton} have revealed TDEs in optically quiescent nearby galaxies \cite[see references in][]{komossa_tidal_2015} with X-ray luminosities ranging from \(\sim 10^{42}\) ergs/s to more than \(\sim 10^{44}\) ergs/s. Accordingly, less that \(10\%\) of stellar mass was needed to power the emissions in most cases. Also, most of the computed blackhole masses are of the order of \(10^6 - 10^8 M_{\odot}\). The spectral energy distribution is peaked at high temperatures (\(\approx 10^5\)K).
+Subsequent searches of X-ray observatories databases, especially \textit{ROSAT} and \textit{XMM Newton} have revealed TDEs in optically quiescent nearby galaxies \cite[see references in][]{komossa_tidal_2015} with X-ray luminosities ranging from \(\sim 10^{42}\) ergs/s to more than \(\sim 10^{44}\) ergs/s. Accordingly, less that \(10\%\) of stellar mass was needed to power the emissions in most cases. Also, most of the computed black hole masses are of the order of \(10^6 - 10^8 M_{\odot}\). The spectral energy distribution is peaked at high temperatures (\(\approx 10^5\)K).
 
-Using X-ray observations of TDE in SDSSJ120136.02+300305.5 using \textit{Swift}, the first supermassive binary blackhole candidate was identified, which showed characteristic gaps in observed lightcurve predicted by theoretical models \cite{liu_miliparsec_2014}.
+Using X-ray observations of TDE in SDSSJ120136.02+300305.5 using \textit{Swift}, the first supermassive binary black hole candidate was identified, which showed characteristic gaps in observed lightcurve predicted by theoretical models \cite{liu_miliparsec_2014}.
 
-\begin{figure}
-	\caption{komossa 2015 fig 3}
-	\label{fig:xray_luminosity}
-\end{figure}
 
 \subsection{Ultraviolet}
 
-The \textit{Galaxy Evolution Explorer}, or the \textit{GALEX} satellite has been the most significant sky survey for TDE observations in UV band of electromagnetic spectrum. It assisted in the long term multi-wavelength study of TDEs \cite{gezari_ultraviolet_2006}. All TDE candidates observed using \textit{GALEX} and other UV observatories follow the \(t^{-5/3}\) law and have simple blackbody spectra \cite{nicholas_chamberlain_stone_tidal_2013}. The computed size of emitting blackbodies turns out to be extremely large. This is due to reprocessed emission from large outer shell consistent with theoretical predictions \cite{ulmer_flares_1999}. Spectral energy distribution is peaked at low temperatures (\(\approx 10^4\)K).
+The \textit{Galaxy Evolution Explorer}, or the \textit{GALEX} satellite has been the only significant sky survey for TDE observations in UV band of electromagnetic spectrum \cite{van_velzen_optical-ultraviolet_2020}. It assisted in the long term multi-wavelength study of TDEs \cite{gezari_ultraviolet_2006}. All TDE candidates observed using \textit{GALEX} and other UV observatories follow the \(t^{-5/3}\) law and have simple blackbody spectra \cite{nicholas_chamberlain_stone_tidal_2013}. The computed size of emitting blackbodies turns out to be extremely large. This is due to reprocessed emission from large outer shell consistent with theoretical predictions \cite{ulmer_flares_1999}. Spectral energy distribution is peaked at low temperatures (\(\approx 10^4\)K).
 
 \subsection{Optical}
 
@@ -129,30 +149,64 @@ Although the optical emissions from a TDE are not as prominent as X-ray or UV em
 
 Theoretically, optical luminosity variation with time is expected to follow the relation \(L \propto t^{-5/12}\) \cite{lodato_multiband_2011}. However, unexpectedly, many of the optical observations roughly follow the \(t^{-5.3}\) law instead. One reason for this might be significant reprocessing of emissions, but the topic is still under active research.
 
-\begin{figure}
-	\caption{fig 2 lodato rossi}
+\begin{figure} 
+	\begin{minipage} {.5 \textwidth}
+		\includegraphics[width=0.9\linewidth]{./images/komossa2015.png}
+		\caption{komossa 2015 fig 3}
+		\label{fig:xray_luminosity}
+	\end{minipage}%
+	\begin{minipage} {.5 \textwidth}
+		\includegraphics[width=\linewidth]{./images/vanvelzen2020.png}
+		\caption{van velzen 2020 fig}
+		\label{fig:optical UV_luminosity}
+	\end{minipage}
 \end{figure}
 
 \subsection{Radio}
 
 Detections of radio emissions are mostly associated with outflow of matter, producing shocks in the circumnuclear medium \cite{bonnerot_first_2021}. Most TDEs do not launch powerful radio jets, however there have been exceptions -- TDE in IC3599, RXJ1420+5334 and Swift J1644+57 \cite{komossa_tidal_2015}. \textit{VLA} has been used to study radio emissions from X-ray emitting TDE candidates. Recently, a possibility has been suggested that radio emission from TDEs might correspond to changes in accretion states \cite{horesh_delayed_2021}.
 
+\begin{figure} [h]
+	\centering
+	\includegraphics[width=.5\linewidth]{./images/alexander2020.png}
+	\caption{alexander 2020}
+\end{figure}
+
+\newpage
 \section{Spectroscopy}
 
-As emission from TDE flare passes through the circumnuclear matter, the X-ray--UV continuum get transformed to emission spectra.
+\begin{figure}
+	\centering
+	\includegraphics[width=.55\linewidth]{./images/arcavi2014.png}
+	\caption{arcavi 2014}
+\end{figure}
+
+As emission from TDE flare passes through the circumnuclear matter, the X-ray--UV continuum get transformed to emission spectrum. Spectra of all TDEs show bright broad emission from He and/or H, which fades on timescales of several months to years \cite{komossa_tidal_2015, wang_transient_2011}, which probably arise from the accreting matter \cite{guillochon_hydrodynamical_2013, komossa_tidal_2015}. Some spectra in gas rich environments show transient super-strong iron coronal lines of upto Fe\(^+13\) ionization states \cite{wang_transient_2011}. These high ionization lines fade over time and become undetectable after a few years. The broad H and He lines also fade over time while the lower ionization lines increase in strength. The emission from unbound stellar debris is expected to be very faint.
+Spectroscopy can be used to distinguish TDEs from other types of transients. Spectra corresponding to higher temperatures than those of typical supernovae help differentiate TDEs from supernovae. Active galactic nuclei, which are recurring and have different magnitude of outbursts, also have features in their spectra which are very distinct from those of TDEs \cite{arcavi_continuum_2014}.
 
 
 \section{Multi-messenger Observations}
+
 TDEs can be targets for multi-messenger astronomy with interesting observable aspects of cosmic rays, neutrinos and gravitational waves.
 
 Origin and evolution of cosmic ray particles in TDEs is inspected by study of theoretical models in \cite{zhang_high-energy_2017}. Ultra-high energy cosmic rays find it hard to survive in luminous and powerful TDE jets. Main sequence stars and carbon-oxygen white dwarfs do not produce the observed cosmic ray spectrum and hence cannot be the source of TDE cosmic rays. While the oxygen-neon-magnesium white dwarfs can successfully produce the spectrum, they might be too rare to be the true sources of these cosmic rays.
 
 Neutrino observations can be used to probe TDE jets. Neutrino observatories with their large field of view can detect TDEs at higher rates if their electromagnetic counterparts can be detected \cite{wang_probing_2011}. Consequently, part of unaccounted flux obtained at large neutrino observatories may be attributed to TDEs \cite{lunardini_high_2017}. High energy cosmic ray protons can produce neutrinos after interacting with the X-ray photons which are present in large quantities in TDE flares. Efficient production of neutrinos with lack of cosmic rays is expected for luminous TDEs, while high energy cosmic rays with poor production of neutrinos is expected for TDEs with low luminosities \cite{zhang_high-energy_2017}. 
 
-Supermassive blackhole binaries can be discovered via TDEs, like the one described in section \ref{subsec:xrays}. Such binaries will produce gravitational waves upon merger \cite{komossa_tidal_2015}. Also, tidal disruption of a white dwarf by intermediate mass blackhole is expected to be a source of gravitational waves. Time variation in quadrupole moment of star blackhole system causes emission of marginally detectable low frequency gravitational waves as the star travels past the orbital pericenter on its parabolic orbit \cite{kobayashi_gravitational_2004} \cite{nicholas_chamberlain_stone_tidal_2013}.  
+Supermassive black hole binaries can be discovered via TDEs, like the one described in section \ref{subsec:xrays}. Such binaries will produce gravitational waves upon merger \cite{komossa_tidal_2015}. Also, tidal disruption of a white dwarf by intermediate mass black hole is expected to be a source of detectable gravitational waves. Time variation in quadrupole moment of star-black hole system causes emission of marginally detectable low frequency gravitational waves as the star travels past the orbital pericenter on its parabolic orbit \cite{kobayashi_gravitational_2004, nicholas_chamberlain_stone_tidal_2013}.  
 
 \section{Summary}
 
+
+
+\begin{figure} [h]
+	\centering
+	\includegraphics[width=.75\linewidth]{./images/hayasaki2021.png}
+	\caption{hayasaki 2021}
+\end{figure}
+
+
+\clearpage
 \printbibliography
 
 \end{document}

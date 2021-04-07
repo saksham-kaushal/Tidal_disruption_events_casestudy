@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'casestudy.blg'
-[58] biber:322> INFO - === Wed Apr  7, 2021, 05:31:38
-[69] Biber.pm:415> INFO - Reading 'casestudy.bcf'
-[121] Biber.pm:943> INFO - Found 26 citekeys in bib section 0
-[132] Biber.pm:4256> INFO - Processing section 0
-[132] Utils.pm:75> INFO - Globbing data source 'references.bib'
-[132] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
-[140] Biber.pm:4455> INFO - Looking for bibtex format file 'references.bib' for section 0
-[146] bibtex.pm:1653> INFO - LaTeX decoding ...
-[264] bibtex.pm:1471> INFO - Found BibTeX data source 'references.bib'
-[432] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[433] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[433] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[433] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[449] bbl.pm:652> INFO - Writing 'casestudy.bbl' with encoding 'UTF-8'
-[466] bbl.pm:755> INFO - Output to casestudy.bbl
+[58] biber:322> INFO - === Thu Apr  8, 2021, 04:23:19
+[72] Biber.pm:415> INFO - Reading 'casestudy.bcf'
+[131] Biber.pm:943> INFO - Found 31 citekeys in bib section 0
+[142] Biber.pm:4256> INFO - Processing section 0
+[142] Utils.pm:75> INFO - Globbing data source 'references.bib'
+[143] Utils.pm:91> INFO - Globbed data source 'references.bib' to references.bib
+[151] Biber.pm:4455> INFO - Looking for bibtex format file 'references.bib' for section 0
+[159] bibtex.pm:1653> INFO - LaTeX decoding ...
+[303] bibtex.pm:1471> INFO - Found BibTeX data source 'references.bib'
+[588] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[588] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[588] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[588] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[610] bbl.pm:652> INFO - Writing 'casestudy.bbl' with encoding 'UTF-8'
+[647] bbl.pm:755> INFO - Output to casestudy.bbl
