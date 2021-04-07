@@ -92,7 +92,7 @@
       \field{month}{6}
       \field{note}{Number: 6173 Publisher: Nature Publishing Group}
       \field{number}{6173}
-      \field{title}{Tidal disruption of stars by black holes of 10 6 -10 8 solar masses in nearby galaxies}
+      \field{title}{Tidal disruption of stars by black holes of 10 6 –10 8 solar masses in nearby galaxies}
       \field{urlday}{16}
       \field{urlmonth}{3}
       \field{urlyear}{2021}
@@ -478,7 +478,7 @@
       \field{number}{1}
       \field{shortjournal}{{ApJ}}
       \field{shorttitle}{{HYDRODYNAMICAL} {SIMULATIONS} {TO} {DETERMINE} {THE} {FEEDING} {RATE} {OF} {BLACK} {HOLES} {BY} {THE} {TIDAL} {DISRUPTION} {OF} {STARS}}
-      \field{title}{{Hydrodynamical} {simulations} {to} {determine} {the} {feeding} {rate} {of} {black} {holes} {by} {the} {tidal} {disruption} {of} {stars}: {the} {importance} {of} {the} {impact} {parameter} {and} {stellar} {structure}}
+      \field{title}{Hydrodynamical simulation to determine the feeding rate of black holes by tidal disruption of stars: the importance of the impact parameter and stellar structure}
       \field{urlday}{5}
       \field{urlmonth}{4}
       \field{urlyear}{2021}
@@ -499,6 +499,75 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1088/0004-637x/767/1/25
+      \endverb
+    \endentry
+    \entry{piran_disk_2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f55962ecc8b6264aa479500b8bdfdee0}{%
+           family={Piran},
+           familyi={P\bibinitperiod},
+           given={Tsvi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3e1fdd7c01a4b994287637891179536b}{%
+           family={Svirski},
+           familyi={S\bibinitperiod},
+           given={Gilad},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5b1ff9f1b27e7e4a2240075b2744dcb3}{%
+           family={Krolik},
+           familyi={K\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aa96eb77fe06d390afdd80375de2e14e}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Roseanne\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3a5d160aa486680d20a4026f5c68f419}{%
+           family={Shiokawa},
+           familyi={S\bibinitperiod},
+           given={Hotaka},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{26cc1d5a2e1385267d31ac603ad3c433}
+      \strng{fullhash}{57ac62dcb5fed8e64c5715dc0a87c305}
+      \strng{bibnamehash}{57ac62dcb5fed8e64c5715dc0a87c305}
+      \strng{authorbibnamehash}{57ac62dcb5fed8e64c5715dc0a87c305}
+      \strng{authornamehash}{26cc1d5a2e1385267d31ac603ad3c433}
+      \strng{authorfullhash}{57ac62dcb5fed8e64c5715dc0a87c305}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A tidal disruption event ({TDE}) takes place when a star passes near enough to a massive black hole to be disrupted. About half the star’s matter is given elliptical trajectories with large apocenter distances, and the other half is unbound. To form an accretion flow, the bound matter must lose a significant amount of energy, with the actual amount depending on the characteristic scale of the flow measured in units of the black hole’s gravitational radius ( erg). Recent numerical simulations have revealed that the accretion flow scale is close to the scale of the most bound initial orbits, cm from the black hole, and the corresponding energy dissipation rate is erg s−1. We suggest that the energy liberated during the formation of the accretion disk, rather than the energy liberated by subsequent accretion onto the black hole, powers the observed optical {TDE} candidates. The observed rise times, luminosities, temperatures, emission radii, and line widths seen in these {TDEs} are all more readily explained in terms of heating associated with disk formation rather than in terms of accretion.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{note}{Publisher: American Astronomical Society}
+      \field{number}{2}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{Disk formation vs disk accretion - What powers tidal disruption events?}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{806}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{164}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0004-637X/806/2/164
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/saksham/Zotero/storage/9GIXTEAZ/Piran et al. - 2015 - DISK FORMATION VERSUS DISK ACCRETION—WHAT POWERS T.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/0004-637x/806/2/164
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/0004-637x/806/2/164
       \endverb
     \endentry
     \entry{dai_unified_2018}{article}{}
@@ -535,8 +604,8 @@
       \strng{authorbibnamehash}{7106aa434fda75a6f0582c405a0d10e1}
       \strng{authornamehash}{5f178893165bbb2cbe3dbc4a14d9c7d4}
       \strng{authorfullhash}{7106aa434fda75a6f0582c405a0d10e1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In the past few years wide-field optical and {UV} transient surveys and X-ray telescopes have allowed us to identify a few dozen candidate tidal disruption events ({TDEs}). While in theory the physical processes in {TDEs} are ubiquitous, a few distinct classes of {TDEs} have been observed. Some {TDEs} radiate mainly in {NUV}/optical, while others produce prominent X-rays. Moreover, relativistic jets have been observed in only a handful of {TDEs}. This diversity might be related to the details of the super-Eddington accretion and emission physics relevant to {TDE} disks. In this Letter, we utilize novel three-dimensional general relativistic radiation magnetohydrodynamics simulations to study the super-Eddington compact disk phase expected in {TDEs}. Consistent with previous studies, geometrically thick disks, wide-angle optically thick fast outflows, and relativistic jets are produced. The outflow density and velocity depend sensitively on the inclination angle, and hence so does the reprocessing of emission produced from the inner disk. We then use Monte Carlo radiative transfer to calculate the reprocessed spectra and find that that the observed ratio of optical to X-ray fluxes increases with increasing inclination angle. This naturally leads to a unified model for different classes of {TDEs} in which the spectral properties of the {TDE} depend mainly on the viewing angle of the observer with respect to the orientation of the disk.}
@@ -570,6 +639,60 @@
       \verb https://doi.org/10.3847/2041-8213/aab429
       \endverb
     \endentry
+    \entry{magorrian_rates_1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a1c32e6183eacd5955198bff36a48a11}{%
+           family={Magorrian},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b4dddccf5399218a0675ac23f96c4a2}{%
+           family={Tremaine},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{adeb47b88080c77127516230f443f04b}
+      \strng{fullhash}{adeb47b88080c77127516230f443f04b}
+      \strng{bibnamehash}{adeb47b88080c77127516230f443f04b}
+      \strng{authorbibnamehash}{adeb47b88080c77127516230f443f04b}
+      \strng{authornamehash}{adeb47b88080c77127516230f443f04b}
+      \strng{authorfullhash}{adeb47b88080c77127516230f443f04b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is strong evidence for some kind of massive dark object in the centres of many galaxy bulges. The detection of flares from tidally disrupted stars could confirm that these objects are black holes ({BHs}). Here we present calculations of the stellar disruption rates in detailed dynamical models of real galaxies, taking into account the refilling of the loss cone of stars on disruptable orbits by two-body relaxation and tidal forces in non-spherical galaxies. The highest disruption rates (one star per 104 yr) occur in faint L \& 1010 L( galaxies, which have steep central density cusps. More luminous galaxies are less dense and have much longer relaxation times and more massive {BHs}. Dwarf stars in such galaxies are swallowed whole by the {BH} and hence do not emit flares; giant stars could produce flares as often as every 105 yr, although the rate depends sensitively on the shape of the stellar distribution function. We discuss the possibility of detecting disruption flares in current supernova searches. The total mass of stars consumed over the lifetime of the galaxy is of the order of 106 M(, independent of galaxy luminosity; thus, disrupted stars may contribute significantly to the present {BH} mass in galaxies fainter than , 109 L(.}
+      \field{day}{21}
+      \field{issn}{0035-8711, 1365-2966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{2}
+      \field{shortjournal}{Monthly Notices of the Royal Astronomical Society}
+      \field{title}{Rates of tidal disruption of stars by massive central black holes}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{309}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{447\bibrangedash 460}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1046/j.1365-8711.1999.02853.x
+      \endverb
+      \verb{file}
+      \verb Magorrian and Tremaine - 1999 - Rates of tidal disruption of stars by massive cent.pdf:/home/saksham/Zotero/storage/QYNZ58GE/Magorrian and Tremaine - 1999 - Rates of tidal disruption of stars by massive cent.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1046/j.1365-8711.1999.02853.x
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1046/j.1365-8711.1999.02853.x
+      \endverb
+    \endentry
     \entry{stone_rates_2016}{article}{}
       \name{author}{2}{}{%
         {{hash=83e91b8699747021148c7eaf7abd330a}{%
@@ -589,8 +712,8 @@
       \strng{authorbibnamehash}{92ec7344408115fc41baebc545bef769}
       \strng{authornamehash}{92ec7344408115fc41baebc545bef769}
       \strng{authorfullhash}{92ec7344408115fc41baebc545bef769}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Rates of stellar tidal disruption events ({TDEs}) by supermassive black holes ({SMBHs}) due to two-body relaxation are calculated using a large galaxy sample (N ≈ 200) in order to explore the sensitivity of the {TDE} rates to observational uncertainties, such as the parametrization of galaxy light proﬁles and the stellar mass function. The largest uncertainty arises due to the poorly constrained occupation fraction of {SMBHs} in low-mass galaxies, which otherwise dominate the total {TDE} rate. The detection rate of {TDE} ﬂares by optical surveys is calculated as a function of {SMBH} mass and other observables for several physically motivated models of {TDE} emission. We also quantify the fraction of galaxies that produce deeply penetrating disruption events. If the majority of the detected events are characterized by super-Eddington luminosities (such as disc winds, or synchrotron radiation from an off-axis relativistic jet), then the measured {SMBH} mass distribution will tightly constrain the low-end {SMBH} occupation fraction. If Eddington-limited emission channels dominate, however, then the occupation fraction sensitivity is much less pronounced in a ﬂux-limited survey (although still present in a volume-complete event sample). The {SMBH} mass distribution of the current sample of {TDEs}, though highly inhomogeneous and encumbered by selection effects, already suggests that Eddington-limited emission channels dominate. Even our most conservative rate estimates appear to be in tension with much lower observationally inferred {TDE} rates, and we discuss several possible resolutions to this discrepancy.}
@@ -621,6 +744,776 @@
       \endverb
       \verb{url}
       \verb http://academic.oup.com/mnras/article/455/1/859/984391/Rates-of-stellar-tidal-disruption-as-probes-of-the
+      \endverb
+    \endentry
+    \entry{komossa_tidal_2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6b7c8a05f80dc4ba48aa8aa8986d08ff}{%
+           family={Komossa},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \strng{fullhash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \strng{bibnamehash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \strng{authorbibnamehash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \strng{authornamehash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \strng{authorfullhash}{6b7c8a05f80dc4ba48aa8aa8986d08ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Stars in the immediate vicinity of supermassive black holes ({SMBHs}) can be ripped apart by the tidal forces of the black hole. The subsequent accretion of the stellar material causes a spectacular flare of electromagnetic radiation. Here, we provide a review of the observations of tidal disruption events ({TDEs}), with an emphasis on the important contributions of Swift to this field. {TDEs} represent a new probe of matter under strong gravity, and have opened up a new window into studying accretion physics under extreme conditions. The events probe relativistic effects, provide a new means of measuring black hole spin, and represent signposts of intermediate-mass {BHs}, binary {BHs} and recoiling {BHs}. Luminous, high-amplitude X-ray flares, matching key predictions of the tidal disruption scenario, have first been discovered with {ROSAT}, and more recently with other missions and in other wavebands. The Swift discovery of two γ-ray emitting, jetted {TDEs}, never seen before, has provided us with a unique probe of the early phases of jet formation and evolution, and Swift J1644+75 has the best covered lightcurve of any {TDE} to date. Further, Swift has made important contributions in providing well-covered lightcurves of {TDEs} discovered with other instruments, setting constraints on the physics that govern the {TDE} evolution, and including the discovery of the first candidate binary {SMBH} identified from a {TDE} lightcurve.}
+      \field{day}{1}
+      \field{issn}{2214-4048}
+      \field{journaltitle}{Journal of High Energy Astrophysics}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{series}{Swift 10 Years of Discovery, a novel approach to Time Domain Astronomy}
+      \field{shortjournal}{Journal of High Energy Astrophysics}
+      \field{shorttitle}{Tidal disruption of stars by supermassive black holes}
+      \field{title}{Tidal disruption of stars by supermassive black holes: Status of observations}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{7}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{148\bibrangedash 157}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jheap.2015.04.006
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/saksham/Zotero/storage/J5ZMBVL4/Komossa - 2015 - Tidal disruption of stars by supermassive black ho.pdf:application/pdf;ScienceDirect Snapshot:/home/saksham/Zotero/storage/DYM85NP8/S2214404815000166.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214404815000166
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214404815000166
+      \endverb
+    \endentry
+    \entry{liu_miliparsec_2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d30241d4c5d30c657e58efe910fb2a7e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={F.\bibnamedelimi K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=83ae02ba330cfc5e6c0cc2ac2c4b1dd4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shuo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b7c8a05f80dc4ba48aa8aa8986d08ff}{%
+           family={Komossa},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{616bcff3834cb160c4d833a0dbdb40ae}
+      \strng{fullhash}{a78117cc1c6b847703b7cf0912f9d458}
+      \strng{bibnamehash}{a78117cc1c6b847703b7cf0912f9d458}
+      \strng{authorbibnamehash}{a78117cc1c6b847703b7cf0912f9d458}
+      \strng{authornamehash}{616bcff3834cb160c4d833a0dbdb40ae}
+      \strng{authorfullhash}{a78117cc1c6b847703b7cf0912f9d458}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Galaxy mergers play a key role in the evolution of galaxies and the growth of their central supermassive black holes ({SMBHs}). A search for (active) {SMBH} binaries ({SMBHBs}) at the centers of the merger remnants is currently ongoing. Perhaps the greatest challenge is to identify the inactive {SMBHBs}, which might be the most abundant, but are also the most difficult to identify. Liu et al. predicted characteristic drops in the light curves of tidal disruption events ({TDEs}), caused by the presence of a secondary {SMBH}. Here, we apply that model to the light curve of the optically inactive galaxy {SDSS} J120136.02+300305.5, which was identified as a candidate {TDE} with {XMM}-Newton. We show that the deep dips in its evolving X-ray light curve can be well explained by the presence of a {SMBHB} at its core. A {SMBHB} model with a mass of the primary of {MBH} = 107 M☉, a mass ratio q ≃ 0.08, and a semi-major axis ab ≃ 0.6 mpc is in good agreement with the observations. Given that primary mass, introducing an orbital eccentricity is needed, with eb ≃ 0.3. Alternatively, a lower mass primary of {MBH} = 106 M☉ in a circular orbit fits the light curve well. Tight binaries like this one, which have already overcome the “final parsec problem,” are prime sources of gravitational wave radiation once the two {SMBHs} coalesce. Future transient surveys, which will detect {TDEs} in large numbers, will place tight constraints on the {SMBHB} fraction in otherwise non-active galaxies.}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{note}{Publisher: American Astronomical Society}
+      \field{number}{2}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{A miliparsec supermassive blackhole binary candidate in the galaxy {SDSS} J1236.12+300305.5}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{786}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{103}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0004-637X/786/2/103
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/saksham/Zotero/storage/ALCW3H2B/Liu et al. - 2014 - A MILLIPARSEC SUPERMASSIVE BLACK HOLE BINARY CANDI.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/0004-637x/786/2/103
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/0004-637x/786/2/103
+      \endverb
+    \endentry
+    \entry{gezari_ultraviolet_2006}{article}{}
+      \name{author}{13}{}{%
+        {{hash=56bfad440e1883186dc273a9c3814598}{%
+           family={Gezari},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=312584b4d6231fefdc85ad1643705746}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f1baa17da6ec5736b088b39a7508cf9e}{%
+           family={Milliard},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fd5b312e5eac45bba73d89a73b15dba7}{%
+           family={Basa},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=45f64999495b4362e14ae5ce0623ae5c}{%
+           family={Halpern},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=437484b3a88e005a992721d3e84c137f}{%
+           family={Forster},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4c94c21c50b880926175f990ae008448}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={P.\bibnamedelimi G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d0c680521e984b687c9a4e632db33cf2}{%
+           family={Morrissey},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=17741cc4fac93e4e7b4c532676027723}{%
+           family={Neff},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=cfd57af17800c7fceff59e75a89bf07b}{%
+           family={Schiminovich},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6b4fe33976b83cb26b864659c5d8cd5b}{%
+           family={Seibert},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=46b2e5996882fee733ece2ff8dcc58b9}{%
+           family={Small},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b659088c76421ccd90c146a58c7634eb}{%
+           family={Wyder},
+           familyi={W\bibinitperiod},
+           given={T.\bibnamedelimi K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e3c3ddc441f1ee653f1516be4f10d02}
+      \strng{fullhash}{29ee595d5a7fe94f86b096802d1f7419}
+      \strng{bibnamehash}{3e3c3ddc441f1ee653f1516be4f10d02}
+      \strng{authorbibnamehash}{3e3c3ddc441f1ee653f1516be4f10d02}
+      \strng{authornamehash}{3e3c3ddc441f1ee653f1516be4f10d02}
+      \strng{authorfullhash}{29ee595d5a7fe94f86b096802d1f7419}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A supermassive black hole in the nucleus of a galaxy will be revealed when a star passes close enough to be torn apart by tidal forces and a ﬂare of radiation is emitted by the stream of stellar debris that plunges into the black hole. Since common active galactic nuclei have accreting black holes that can also produce ﬂares, a convincing demonstration that a stellar tidal disruption has occurred generally begins with a “normal” galaxy that has no evidence of prior nuclear activity. Here we report a luminous {UV} ﬂare from an elliptical galaxy at z p 0.37 in the Groth ﬁeld of the {GALEX} Deep Imaging Survey that has no evidence of a Seyfert nucleus from optical spectroscopy and X-ray imaging obtained during the ﬂare. Multiwavelength data collected at the time of the event, and for 2 years following, allow us to constrain, for the ﬁrst time, the spectral energy distribution of a candidate tidal disruption ﬂare from optical through X-rays. The luminosity and temperature of the radiation and the decay curve of the ﬂare are in excellent agreement with theoretical predictions for the tidal disruption of a star, and provide the strongest empirical evidence for a stellar disruption event to date.}
+      \field{day}{10}
+      \field{issn}{0004-637X, 1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{Ultraviolet Detection of the Tidal Disruption of a Star by a Supermassive Black Hole}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{653}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{L25\bibrangedash L28}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1086/509918
+      \endverb
+      \verb{file}
+      \verb Gezari et al. - 2006 - Ultraviolet Detection of the Tidal Disruption of a.pdf:/home/saksham/Zotero/storage/VB8E6IYJ/Gezari et al. - 2006 - Ultraviolet Detection of the Tidal Disruption of a.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1086/509918
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1086/509918
+      \endverb
+    \endentry
+    \entry{nicholas_chamberlain_stone_tidal_2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=7106971d28e6ffe05dc8361c6e75d572}{%
+           family={{Nicholas Chamberlain Stone}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Harvard University}%
+      }
+      \strng{namehash}{7106971d28e6ffe05dc8361c6e75d572}
+      \strng{fullhash}{7106971d28e6ffe05dc8361c6e75d572}
+      \strng{bibnamehash}{7106971d28e6ffe05dc8361c6e75d572}
+      \strng{authorbibnamehash}{7106971d28e6ffe05dc8361c6e75d572}
+      \strng{authornamehash}{7106971d28e6ffe05dc8361c6e75d572}
+      \strng{authorfullhash}{7106971d28e6ffe05dc8361c6e75d572}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tidal Interaction of a Star with a Supermassive Black Hole}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Stone_gsas.harvard_0084L_10998.pdf:/home/saksham/Zotero/storage/HEMMDG3C/Stone_gsas.harvard_0084L_10998.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ulmer_flares_1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5f2f0d8f0b985199ecd5f7542c571d52}{%
+           family={Ulmer},
+           familyi={U\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \strng{fullhash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \strng{bibnamehash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \strng{authorbibnamehash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \strng{authornamehash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \strng{authorfullhash}{5f2f0d8f0b985199ecd5f7542c571d52}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tidal disruption Ñares are di†erentiated into two classes : those that are sub-Eddington and those that radiate near the Eddington above the Eddington limit. limit.}
+      \field{day}{20}
+      \field{issn}{0004-637X, 1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{Flares from the Tidal Disruption of Stars by Massive Black Holes}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{514}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{180\bibrangedash 187}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1086/306909
+      \endverb
+      \verb{file}
+      \verb Ulmer - 1999 - Flares from the Tidal Disruption of Stars by Massi.pdf:/home/saksham/Zotero/storage/VSWIR5YL/Ulmer - 1999 - Flares from the Tidal Disruption of Stars by Massi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1086/306909
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1086/306909
+      \endverb
+    \endentry
+    \entry{strubbe_optical_2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f22a9c1b3892e778d2efcb3392ed2588}{%
+           family={Strubbe},
+           familyi={S\bibinitperiod},
+           given={Linda\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=1a5b25589c83bf39f1933f42d3c1e4cb}{%
+           family={Quataert},
+           familyi={Q\bibinitperiod},
+           given={Eliot},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \strng{fullhash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \strng{bibnamehash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \strng{authorbibnamehash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \strng{authornamehash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \strng{authorfullhash}{3c7f47e48245e3dabdb1f5011f857a19}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A star that wanders too close to a massive black hole ({BH}) is shredded by the {BH}’s tidal gravity. Stellar gas falls back to the {BH} at a rate initially exceeding the Eddington rate, releasing a ﬂare of energy. In anticipation of upcoming transient surveys, we predict the light curves and spectra of tidal ﬂares as a function of time, highlighting the unique signatures of tidal ﬂares at optical and near-infrared wavelengths. A reasonable fraction of the gas initially bound to the {BH} is likely blown away when the fallback rate is super-Eddington at early times. This outﬂow produces an optical luminosity comparable to that of a supernova; such events have durations of ∼10 d and may have been missed in supernova searches that exclude the nuclear regions of galaxies. When the fallback rate subsides below Eddington, the gas accretes onto the {BH} via a thin disc whose emission peaks in the ultraviolet to soft X-rays. Some of this emission is reprocessed by the unbound stellar debris, producing a spectrum of very broad emission lines (with no corresponding narrow forbidden lines). These lines are the strongest for {BHs} with {MBH} ∼ 105–106 M and thus optical surveys are particularly sensitive to the lowest mass {BHs} in galactic nuclei. Calibrating our models to {ROSAT} and Galaxy Evolution Explorer ({GALEX}) observations, we predict detection rates for Panoramic Survey Telescope and Rapid Response System (Pan-{STARRS}), the Palomar Transient Factory ({PTF}) and the Large Synoptic Survey Telescope ({LSST}) and highlight some of the observational challenges associated with studying tidal disruption events in the optical. Upcoming surveys such as {PanSTARRS} should detect at least several events per year, and may detect many more if current models of outﬂows during super-Eddington accretion are reasonably accurate. These surveys will signiﬁcantly improve our knowledge of stellar dynamics in galactic nuclei, the physics of super-Eddington accretion, the demography of intermediate mass {BHs} and the role of tidal disruption in the growth of massive {BHs}.}
+      \field{day}{21}
+      \field{issn}{00358711, 13652966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Optical flares from the tidal disruption of stars by massive black holes}
+      \field{title}{Optical flares from the tidal disruption of stars by massive black holes: Optical signatures of tidally disrupted stars}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{400}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2070\bibrangedash 2084}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2009.15599.x
+      \endverb
+      \verb{file}
+      \verb Strubbe and Quataert - 2009 - Optical flares from the tidal disruption of stars .pdf:/home/saksham/Zotero/storage/WSPQMQ2F/Strubbe and Quataert - 2009 - Optical flares from the tidal disruption of stars .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2009.15599.x
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2009.15599.x
+      \endverb
+    \endentry
+    \entry{gezari_tidal_2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ee621cbe8ac49590531459036938f3ce}{%
+           family={Gezari},
+           familyi={G\bibinitperiod},
+           given={Suvi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee621cbe8ac49590531459036938f3ce}
+      \strng{fullhash}{ee621cbe8ac49590531459036938f3ce}
+      \strng{bibnamehash}{ee621cbe8ac49590531459036938f3ce}
+      \strng{authorbibnamehash}{ee621cbe8ac49590531459036938f3ce}
+      \strng{authornamehash}{ee621cbe8ac49590531459036938f3ce}
+      \strng{authorfullhash}{ee621cbe8ac49590531459036938f3ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The majority of supermassive black holes in the Universe lie dormant and starved of fuel. These hidden beasts can be temporarily illuminated when an unlucky star passes close enough to be tidally disrupted and consumed by the black hole. Theorists first proposed in 1975 that tidal disruption events should be an inevitable consequence of supermassive black holes in galaxy nuclei and later argued that the resulting flare of radiation from the accretion of the stellar debris could be a unique signpost for the presence of a dormant black hole in the center of a normal galaxy. It was not until over two decades later that the first convincing tidal disruption event candidates emerged in the X-rays by the {ROSAT} All-Sky Survey. Since then, over a dozen total candidates have now emerged from searches across the electromagnetic spectrum, including the X-rays, the ultraviolet, and the optical. In the last couple of years, we have also witnessed a paradigm shift with the discovery of relativistic beamed emission associated with tidal disruption events. I review the census of observational candidates to date and discuss the exciting prospects for using large samples of tidal disruption events discovered with the next-generation of ground-based and space-based synoptic surveys to probe accretion disk and/or jet formation and black hole demographics.}
+      \field{day}{1}
+      \field{issn}{1678-4448}
+      \field{journaltitle}{Brazilian Journal of Physics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{5}
+      \field{shortjournal}{Braz J Phys}
+      \field{title}{Tidal Disruption Events}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{43}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{351\bibrangedash 355}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/s13538-013-0136-z
+      \endverb
+      \verb{file}
+      \verb Springer Full Text PDF:/home/saksham/Zotero/storage/JK7DRHGT/Gezari - 2013 - Tidal Disruption Events.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s13538-013-0136-z
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s13538-013-0136-z
+      \endverb
+    \endentry
+    \entry{bonnerot_first_2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f7be798a4c1ba25897629db74b2dd646}{%
+           family={Bonnerot},
+           familyi={B\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a205db9c436a2ef1be4fd90e48aeb0a7}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Wenbin},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9251bd9f553e5b7cc3385d67595804fe}{%
+           family={Hopkins},
+           familyi={H\bibinitperiod},
+           given={Philip\bibnamedelima F},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0cba843b7d2234e0de48bb3369e2b145}
+      \strng{fullhash}{28e3b326798355cc6d11220d41e58013}
+      \strng{bibnamehash}{28e3b326798355cc6d11220d41e58013}
+      \strng{authorbibnamehash}{28e3b326798355cc6d11220d41e58013}
+      \strng{authornamehash}{0cba843b7d2234e0de48bb3369e2b145}
+      \strng{authorfullhash}{28e3b326798355cc6d11220d41e58013}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When a star comes too close to a supermassive black hole, it gets torn apart by strong tidal forces in a tidal disruption event, or {TDE}. Half of the elongated stream of debris comes back to the stellar pericenter where relativistic apsidal precession induces a self-crossing shock. As a result, the gas gets launched into an outflow that can experience additional interactions, leading to the formation of an accretion disc. We carry out the first radiation-hydrodynamics simulations of this process, making use of the same injection procedure to treat the self-crossing shock as in our previous adiabatic study. Two sets of realistic parameters of the problem are considered that correspond to different strengths of this initial interaction. In both cases, we find that the injected matter has its trajectories promptly circularized by secondary shocks taking place near the black hole. However, the generated internal energy efficiently diffuses away in the form of radiation, which results in a thin vertical profile of the formed disc. The diffusing photons promptly irradiate the surrounding debris until they emerge with a bolometric luminosity of \$L{\textbackslash}approx 10{\textasciicircum}\{44\} {\textbackslash}, {\textbackslash}rm erg{\textbackslash}, s{\textasciicircum}\{-1\}\$. Towards the self-crossing shock, diffusion is however slowed that results in a shallower luminosity increase, with a potentially significant component in the optical band. Matter launched to large distances continuously gains energy through radiation pressure, which can cause a significant fraction to become unbound. This work provides direct insight into the origin of the early emission from {TDEs}, which is accessed by a rapidly increasing number of observations.}
+      \field{day}{11}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{2}
+      \field{shortjournal}{Monthly Notices of the Royal Astronomical Society}
+      \field{title}{First light from tidal disruption events}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1093/mnras/stab398
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/saksham/Zotero/storage/UPLRVCP9/6133453.html:text/html;Full Text PDF:/home/saksham/Zotero/storage/AUAFJQ96/Bonnerot et al. - 2021 - First light from tidal disruption events.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/stab398
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/stab398
+      \endverb
+    \endentry
+    \entry{horesh_delayed_2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1ac3ef888e8e255d7981110198ef1dee}{%
+           family={Horesh},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4163eef71d38a5f096adbcbe463ca42d}{%
+           family={Cenko},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=51680698d507213fb941121576ed5b7a}{%
+           family={Arcavi},
+           familyi={A\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{62bed9852469924af790612849005982}
+      \strng{fullhash}{64e06ff560485216a4e43f5ab8247c5a}
+      \strng{bibnamehash}{64e06ff560485216a4e43f5ab8247c5a}
+      \strng{authorbibnamehash}{64e06ff560485216a4e43f5ab8247c5a}
+      \strng{authornamehash}{62bed9852469924af790612849005982}
+      \strng{authorfullhash}{64e06ff560485216a4e43f5ab8247c5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Radio observations of tidal disruption events ({TDEs})—when a star is tidally disrupted by a supermassive black hole ({SMBH})—provide a unique laboratory for studying outflows in the vicinity of {SMBHs} and their connection to accretion onto the supermassive black hole. Radio emission has been detected in only a handful of {TDEs} so far. Here we report the detection of delayed radio flares from an optically discovered {TDE}. Our prompt radio observations of the {TDE} {ASASSN}-15oi showed no radio emission until the detection of a flare six months later, followed by a second and brighter flare years later. We find that the standard scenario, in which an outflow is launched briefly after the stellar disruption, is unable to explain the combined temporal and spectral properties of the delayed flare. We suggest that the flare is due to the delayed ejection of an outflow, perhaps following a transition in accretion states. Our discovery motivates observations of {TDEs} at various timescales and highlights a need for new models.}
+      \field{day}{22}
+      \field{issn}{2397-3366}
+      \field{journaltitle}{Nature Astronomy}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{note}{Publisher: Nature Publishing Group}
+      \field{title}{Delayed radio flares from a tidal disruption event}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/s41550-021-01300-8
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/saksham/Zotero/storage/JX8P28Y9/s41550-021-01300-8.html:text/html;Submitted Version:/home/saksham/Zotero/storage/8HWBVMWJ/Horesh et al. - 2021 - Delayed radio flares from a tidal disruption event.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41550-021-01300-8
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41550-021-01300-8
+      \endverb
+    \endentry
+    \entry{zhang_high-energy_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4287b5d2d3c96c71a7e12150347774d6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={B.\bibnamedelimi Theodore},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=5a5c232e4dd8ab3f1846eeb04979acd6}{%
+           family={Murase},
+           familyi={M\bibinitperiod},
+           given={Kohta},
+           giveni={K\bibinitperiod}}}%
+        {{hash=853805637e43008f74919e3008d2edd2}{%
+           family={Oikonomou},
+           familyi={O\bibinitperiod},
+           given={Foteini},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1929adef154f422993bdfdc8ae955849}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhuo},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d7e6cd85dc1cf52ee4194ea236bd94f}
+      \strng{fullhash}{c5da410b1ecf69a300bc2c4d0062e276}
+      \strng{bibnamehash}{c5da410b1ecf69a300bc2c4d0062e276}
+      \strng{authorbibnamehash}{c5da410b1ecf69a300bc2c4d0062e276}
+      \strng{authornamehash}{5d7e6cd85dc1cf52ee4194ea236bd94f}
+      \strng{authorfullhash}{c5da410b1ecf69a300bc2c4d0062e276}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Tidal disruption events ({TDEs}) by supermassive or intermediate mass black holes have been suggested as candidate sources of ultrahigh-energy cosmic rays ({UHECRs}) and high-energy neutrinos. Motivated by the recent measurements from the Pierre Auger Observatory, which indicates a metal-rich cosmic-ray composition at ultrahigh energies, we investigate the fate of {UHECR} nuclei loaded in {TDE} jets. First, we consider the production and survival of {UHECR} nuclei at internal shocks, external forward and reverse shocks, and nonrelativistic winds. Based on the observations of Swift J1644+57, we show that the {UHECRs} can survive for external reverse and forward shocks, and disk winds. On the other hand, {UHECR} nuclei are significantly disintegrated in internal shocks, although they could survive for low-luminosity {TDE} jets. Assuming that {UHECR} nuclei can survive, we consider implications of different composition models of {TDEs}. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce {UHECR} observations, namely the observed composition or spectrum. The observed mean depth of the shower maximum and its deviation could be explained by oxygen-neon-magnesium white dwarfs, but they may be too rare to be the sources of {UHECRs}.}
+      \field{day}{13}
+      \field{eprinttype}{arxiv}
+      \field{issn}{2470-0010, 2470-0029}
+      \field{journaltitle}{Physical Review D}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{6}
+      \field{shortjournal}{Phys. Rev. D}
+      \field{shorttitle}{High-energy cosmic ray nuclei from tidal disruption events}
+      \field{title}{High-energy cosmic ray nuclei from tidal disruption events: Origin, survival, and implications}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{96}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{063007}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.96.063007
+      \endverb
+      \verb{eprint}
+      \verb 1706.00391
+      \endverb
+      \verb{file}
+      \verb Zhang et al. - 2017 - High-energy cosmic ray nuclei from tidal disruptio.pdf:/home/saksham/Zotero/storage/3SWH5FWJ/Zhang et al. - 2017 - High-energy cosmic ray nuclei from tidal disruptio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1706.00391
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1706.00391
+      \endverb
+      \keyw{Astrophysics - High Energy Astrophysical Phenomena,Nuclear Theory,Astrophysics - Solar and Stellar Astrophysics,High Energy Physics - Phenomenology}
+    \endentry
+    \entry{wang_probing_2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=415293880b8485c71da8c5baba9e7836}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiang-Yu},
+           giveni={X\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=10094ee464363762e65171889c86ec89}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ruo-Yu},
+           giveni={R\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=0dc22c503716f69b6d3c18ac7635eec4}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Zi-Gao},
+           giveni={Z\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=527b5e952f3c706190856f7bc2770be0}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2b756e5e5280427eccd1778207288ce}
+      \strng{fullhash}{fbdcc053810c06a0a5331177a63d36fd}
+      \strng{bibnamehash}{fbdcc053810c06a0a5331177a63d36fd}
+      \strng{authorbibnamehash}{fbdcc053810c06a0a5331177a63d36fd}
+      \strng{authornamehash}{b2b756e5e5280427eccd1778207288ce}
+      \strng{authorfullhash}{fbdcc053810c06a0a5331177a63d36fd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recently discovered high-energy transient Swift J164449.3+573451 (Sw J1644+57) is thought to arise from the tidal disruption of a passing star by a dormant massive black hole. Modeling of the broadband emission suggests the presence of a powerful relativistic jet, which contributes dominantly to the observed X-ray emission. Here we suggest that protons can be accelerated to ultra-high energies by internal shocks occurring in the jets, but their flux is insufficient to account for the observed flux of ultra-high energy cosmic rays. High energy protons can produce {\textasciitilde}0.1-10 {PeV} neutrinos through photomeson interactions with X-ray photons. The large X-ray fluence (7x10{\textasciicircum}-4 erg cm{\textasciicircum}-2) and high photopion efficiency, together with the insignificant cooling of secondary mesons, result in bright neutrino emission expected from Sw J1644+57 if the jet composition is matter-dominated. One to several neutrinos may be detected by a Km{\textasciicircum}3-scale detector from one tidal disruption event similar to Sw J1644+57, thereby providing a powerful probe of the composition of the jets.}
+      \field{day}{28}
+      \field{eprinttype}{arxiv}
+      \field{issn}{1550-7998, 1550-2368}
+      \field{journaltitle}{Physical Review D}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{8}
+      \field{shortjournal}{Phys. Rev. D}
+      \field{title}{Probing the tidal disruption flares of massive black holes with high-energy neutrinos}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{84}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{081301}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.84.081301
+      \endverb
+      \verb{eprint}
+      \verb 1106.2426
+      \endverb
+      \verb{file}
+      \verb Wang et al. - 2011 - Probing the tidal disruption flares of massive bla.pdf:/home/saksham/Zotero/storage/KHSE7V8Y/Wang et al. - 2011 - Probing the tidal disruption flares of massive bla.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1106.2426
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1106.2426
+      \endverb
+      \keyw{Astrophysics - High Energy Astrophysical Phenomena}
+    \endentry
+    \entry{lunardini_high_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3d8802804541dbd3f0f9d2ec3e5d9b80}{%
+           family={Lunardini},
+           familyi={L\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=15a6bd6bc448af96c4e12773c6760da5}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b00de015a31af279d190f4b0a2b6318f}
+      \strng{fullhash}{b00de015a31af279d190f4b0a2b6318f}
+      \strng{bibnamehash}{b00de015a31af279d190f4b0a2b6318f}
+      \strng{authorbibnamehash}{b00de015a31af279d190f4b0a2b6318f}
+      \strng{authornamehash}{b00de015a31af279d190f4b0a2b6318f}
+      \strng{authorfullhash}{b00de015a31af279d190f4b0a2b6318f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study the production of high energy neutrinos in jets from the tidal disruption of stars by supermassive black holes. The diﬀuse neutrino ﬂux expected from these tidal disruption events ({TDEs}) is calculated both analytically and numerically, taking account the dependence of the rate of {TDEs} on the redshift and black hole mass. We ﬁnd that ∼ 10\% of the observed diﬀuse ﬂux at {IceCube} at an energy of about 1 {PeV} can come from {TDEs} if the characteristics of known jetted tidal disruption events are assumed to apply to the whole population of these sources. If, however, plausible scalings of the jet Lorentz factor or variability timescale with the black hole mass are taken into account, the contribution of the lowest mass black holes to the neutrino ﬂux is enhanced. In this case, {TDEs} can account for most of the neutrino ﬂux detected at {IceCube}, describing both the neutrino ﬂux normalization and spectral shape with moderate baryonic loadings. While the uncertainties on our assumptions are large, a possible signature of {TDEs} as the origin of the {IceCube} signal is the transition of the ﬂux ﬂavor composition from a pion beam to a muon damped source at the highest energies, which will also result in a suppression of Glashow resonance events.}
+      \field{day}{2}
+      \field{eprinttype}{arxiv}
+      \field{issn}{2470-0010, 2470-0029}
+      \field{journaltitle}{Physical Review D}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{12}
+      \field{shortjournal}{Phys. Rev. D}
+      \field{title}{High Energy Neutrinos from the Tidal Disruption of Stars}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{95}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{123001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.95.123001
+      \endverb
+      \verb{eprint}
+      \verb 1612.03160
+      \endverb
+      \verb{file}
+      \verb Lunardini and Winter - 2017 - High Energy Neutrinos from the Tidal Disruption of.pdf:/home/saksham/Zotero/storage/A4QEH5XB/Lunardini and Winter - 2017 - High Energy Neutrinos from the Tidal Disruption of.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1612.03160
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1612.03160
+      \endverb
+      \keyw{Astrophysics - High Energy Astrophysical Phenomena,High Energy Physics - Phenomenology}
+    \endentry
+    \entry{kobayashi_gravitational_2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5e78616238bcd6693cbbe13b866439ee}{%
+           family={Kobayashi},
+           familyi={K\bibinitperiod},
+           given={Shiho},
+           giveni={S\bibinitperiod}}}%
+        {{hash=db8e12fb065afb65edba230e1adec850}{%
+           family={Laguna},
+           familyi={L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=35fdfbba0a6df86e2ae242a5130d9eb4}{%
+           family={Phinney},
+           familyi={P\bibinitperiod},
+           given={E.\bibnamedelimi Sterl},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=75679696074fd10731b5d428d3e35ecb}{%
+           family={Meszaros},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1cc816c61319c5629632e5c867b4435}
+      \strng{fullhash}{3703f9156133ec2d6eac66a662311ff8}
+      \strng{bibnamehash}{3703f9156133ec2d6eac66a662311ff8}
+      \strng{authorbibnamehash}{3703f9156133ec2d6eac66a662311ff8}
+      \strng{authornamehash}{a1cc816c61319c5629632e5c867b4435}
+      \strng{authorfullhash}{3703f9156133ec2d6eac66a662311ff8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gravitational waves and X-ray ﬂares are expected from tidal disruption of stars by a massive black hole. Using a relativistic smoothed particle hydrodynamics code, we investigate the fate of main-sequence and helium stars in plunge orbits passing near Schwarzschild or Kerr black holes of mass \$105–106 M. We show that quadrupole gravitational waves emitted during the tidal disruption process are described reasonably well by a point-particle approximation even in the strong-encounter case. An additional hydrodynamic calculation based on the Godunov method indicates that shocks develop for sufﬁciently high tidal compressions. The shock heating results in an X-ray ﬂare, which for solar-type stars disrupted by \$106 M black holes is in the {keV} range associated with the gravitational wave signal. The hardness and duration of the X-ray ﬂare may serve as a diagnostic of the mass of the central black hole.}
+      \field{day}{10}
+      \field{issn}{0004-637X, 1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{2}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{Gravitational Waves and X‐Ray Signals from Stellar Disruption by a Massive Black Hole}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{615}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{855\bibrangedash 865}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1086/424684
+      \endverb
+      \verb{file}
+      \verb Kobayashi et al. - 2004 - Gravitational Waves and X‐Ray Signals from Stellar.pdf:/home/saksham/Zotero/storage/469FWGLH/Kobayashi et al. - 2004 - Gravitational Waves and X‐Ray Signals from Stellar.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1086/424684
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1086/424684
       \endverb
     \endentry
   \enddatalist

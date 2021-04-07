@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.14)  6 APR 2021 04:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.14)  7 APR 2021 05:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,35 +718,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2] [3]
+] [2] [3] [4] [5]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
 (./casestudy.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
-
-
-Package rerunfilecheck Warning: File `casestudy.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `casestudy.out':
-(rerunfilecheck)             Before: 878DC25F0C7FDABDAF56F86C3140F3E9;399
-(rerunfilecheck)             After:  ED9346ACE09277C6B995115C0FB7EAD6;465.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+Package rerunfilecheck Info: File `casestudy.out' has not changed.
+(rerunfilecheck)             Checksum: A098E30222BE9F4215E65F3AEF721A5B;561.
 Package logreq Info: Writing requests to 'casestudy.run.xml'.
 \openout1 = `casestudy.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 15694 strings out of 482555
- 267365 string characters out of 5952145
- 927126 words of memory out of 5000000
- 31107 multiletter control sequences out of 15000+600000
+ 15757 strings out of 482555
+ 269776 string characters out of 5952145
+ 929281 words of memory out of 5000000
+ 31148 multiletter control sequences out of 15000+600000
  540212 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,11n,45p,2166b,1343s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,45p,2223b,1341s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -760,10 +753,10 @@ ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on casestudy.pdf (3 pages, 172341 bytes).
+Output written on casestudy.pdf (5 pages, 188322 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
