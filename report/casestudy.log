@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.14)  8 APR 2021 04:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.14)  9 APR 2021 05:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -631,22 +631,22 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (./casestudy.aux)
 \openout1 = `casestudy.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -682,7 +682,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -695,9 +695,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count442
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
 
 (./casestudy.out) (./casestudy.out)
 \@outlinefile=\write4
@@ -718,14 +718,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'casestudy.bbl' found.
 
 (./casestudy.bbl)
-Package biblatex Info: Reference section=0 on input line 38.
-Package biblatex Info: Reference segment=0 on input line 38.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -734,22 +734,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <./images/rees1990.png, id=48, 318.18875pt x 320.19624pt>
 File: ./images/rees1990.png Graphic file (type png)
 <use ./images/rees1990.png>
-Package pdftex.def Info: ./images/rees1990.png  used on input line 76.
-(pdftex.def)             Requested size: 213.43689pt x 214.77953pt.
-
-Overfull \hbox (61.42314pt too wide) in paragraph at lines 77--77
-[] [] 
- []
-
-<./images/rees1988.png, id=50, 400.49625pt x 446.66875pt>
+Package pdftex.def Info: ./images/rees1990.png  used on input line 78.
+(pdftex.def)             Requested size: 200.7343pt x 201.99829pt.
+<./images/rees1988.png, id=52, 400.49625pt x 446.66875pt>
 File: ./images/rees1988.png Graphic file (type png)
 <use ./images/rees1988.png>
-Package pdftex.def Info: ./images/rees1988.png  used on input line 81.
-(pdftex.def)             Requested size: 213.43689pt x 238.0487pt.
-
-Overfull \hbox (61.42314pt too wide) in paragraph at lines 82--82
-[] [] 
- []
+Package pdftex.def Info: ./images/rees1988.png  used on input line 84.
+(pdftex.def)             Requested size: 200.7343pt x 223.87906pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -758,197 +749,105 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 108.
+LaTeX Warning: Command \textendash invalid in math mode on input line 111.
 
-<./images/lodato_rossi2011.png, id=93, 607.26875pt x 588.1975pt>
+<./images/lodato_rossi2011.png, id=102, 607.26875pt x 588.1975pt>
 File: ./images/lodato_rossi2011.png Graphic file (type png)
 <use ./images/lodato_rossi2011.png>
-Package pdftex.def Info: ./images/lodato_rossi2011.png  used on input line 113.
+Package pdftex.def Info: ./images/lodato_rossi2011.png  used on input line 117.
 
-(pdftex.def)             Requested size: 156.52231pt x 151.59941pt.
-<./images/lodato2009a.png, id=94, 452.69125pt x 450.68375pt>
+(pdftex.def)             Requested size: 163.5644pt x 158.42053pt.
+<./images/lodato2009a.png, id=105, 452.69125pt x 450.68375pt>
 File: ./images/lodato2009a.png Graphic file (type png)
 <use ./images/lodato2009a.png>
-Package pdftex.def Info: ./images/lodato2009a.png  used on input line 118.
-(pdftex.def)             Requested size: 156.52231pt x 155.82301pt.
-<./images/lodato2009b.png, id=95, 463.7325pt x 450.68375pt>
+Package pdftex.def Info: ./images/lodato2009a.png  used on input line 125.
+(pdftex.def)             Requested size: 163.5644pt x 162.83743pt.
+<./images/lodato2009b.png, id=108, 463.7325pt x 450.68375pt>
 File: ./images/lodato2009b.png Graphic file (type png)
 <use ./images/lodato2009b.png>
-Package pdftex.def Info: ./images/lodato2009b.png  used on input line 123.
-(pdftex.def)             Requested size: 156.52231pt x 152.11638pt.
+Package pdftex.def Info: ./images/lodato2009b.png  used on input line 132.
+(pdftex.def)             Requested size: 163.5644pt x 158.96574pt.
 [2 <./images/rees1990.png> <./images/rees1988.png>] [3 <./images/lodato_rossi20
 11.png> <./images/lodato2009a.png> <./images/lodato2009b.png>]
-<./images/komossa2015.png, id=148, 700.6175pt x 509.905pt>
+<./images/komossa2015.png, id=171, 700.6175pt x 509.905pt>
 File: ./images/komossa2015.png Graphic file (type png)
 <use ./images/komossa2015.png>
-Package pdftex.def Info: ./images/komossa2015.png  used on input line 154.
-(pdftex.def)             Requested size: 213.43689pt x 155.33795pt.
-
-Overfull \hbox (61.42314pt too wide) in paragraph at lines 155--155
-[] [] 
- []
-
-<./images/vanvelzen2020.png, id=149, 826.08624pt x 534.99875pt>
+Package pdftex.def Info: ./images/komossa2015.png  used on input line 164.
+(pdftex.def)             Requested size: 223.03963pt x 162.32484pt.
+<./images/vanvelzen2020.png, id=174, 826.08624pt x 534.99875pt>
 File: ./images/vanvelzen2020.png Graphic file (type png)
 <use ./images/vanvelzen2020.png>
-Package pdftex.def Info: ./images/vanvelzen2020.png  used on input line 159.
-(pdftex.def)             Requested size: 237.15372pt x 153.58644pt.
-
-Overfull \hbox (61.42314pt too wide) in paragraph at lines 160--160
-[] [] 
- []
-
-<./images/alexander2020.png, id=153, 638.385pt x 549.05125pt>
+Package pdftex.def Info: ./images/vanvelzen2020.png  used on input line 170.
+(pdftex.def)             Requested size: 247.8235pt x 160.49269pt.
+<./images/alexander2020.png, id=180, 638.385pt x 549.05125pt>
 File: ./images/alexander2020.png Graphic file (type png)
 <use ./images/alexander2020.png>
-Package pdftex.def Info: ./images/alexander2020.png  used on input line 171.
-(pdftex.def)             Requested size: 237.15372pt x 203.96681pt.
-[4 <./images/komossa2015.png> <./images/vanvelzen2020.png> <./images/alexander2
-020.png>]
-<./images/arcavi2014.png, id=164, 785.93625pt x 847.165pt>
+Package pdftex.def Info: ./images/alexander2020.png  used on input line 184.
+(pdftex.def)             Requested size: 198.25577pt x 170.5141pt.
+ [4 <./images/komossa2015.png> <./images/vanvelzen2020.png> <./images/alexander
+2020.png>]
+<./images/arcavi2014.png, id=199, 785.93625pt x 847.165pt>
 File: ./images/arcavi2014.png Graphic file (type png)
 <use ./images/arcavi2014.png>
-Package pdftex.def Info: ./images/arcavi2014.png  used on input line 180.
-(pdftex.def)             Requested size: 260.87053pt x 281.19406pt.
- [5 <./images/arcavi2014.png>]
-<./images/hayasaki2021.png, id=191, 1324.95pt x 819.06pt>
+Package pdftex.def Info: ./images/arcavi2014.png  used on input line 194.
+(pdftex.def)             Requested size: 247.8235pt x 267.12984pt.
+
+[5 <./images/arcavi2014.png>]
+<./images/hayasaki2021.png, id=229, 1324.95pt x 819.06pt>
 File: ./images/hayasaki2021.png Graphic file (type png)
 <use ./images/hayasaki2021.png>
-Package pdftex.def Info: ./images/hayasaki2021.png  used on input line 203.
-(pdftex.def)             Requested size: 355.73058pt x 219.89937pt.
- [6 <./images/hayasaki2021.png>]
+Package pdftex.def Info: ./images/hayasaki2021.png  used on input line 221.
+(pdftex.def)             Requested size: 297.39122pt x 183.84312pt.
+ [6 <./images/hayasaki2021.png>] [7
+
+] [8]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 (./casestudy.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `casestudy.out' has not changed.
 (rerunfilecheck)             Checksum: A098E30222BE9F4215E65F3AEF721A5B;561.
 Package logreq Info: Writing requests to 'casestudy.run.xml'.
 \openout1 = `casestudy.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
  ) 
 Here is how much of TeX's memory you used:
- 15959 strings out of 482555
- 274061 string characters out of 5952145
- 925342 words of memory out of 5000000
- 31314 multiletter control sequences out of 15000+600000
- 546375 words of font info for 75 fonts, out of 8000000 for 9000
+ 16000 strings out of 482555
+ 274876 string characters out of 5952145
+ 929119 words of memory out of 5000000
+ 31343 multiletter control sequences out of 15000+600000
+ 548881 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 48i,11n,46p,2223b,1219s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{cite.0@kobayashi_gravitational_2004} has been ref
-erenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@lunardini_high_2017} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@wang_probing_2011} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@zhang_high-energy_2017} has been referenced 
-but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@arcavi_continuum_2014} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@wang_transient_2011} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@horesh_delayed_2021} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@bonnerot_first_2021} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@gezari_tidal_2013} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@strubbe_optical_2009} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@ulmer_flares_1999} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@nicholas_chamberlain_stone_tidal_2013} has b
-een referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@gezari_ultraviolet_2006} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@van_velzen_optical-ultraviolet_2020} has bee
-n referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@liu_miliparsec_2014} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@komossa_tidal_2015} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@hung_sifting_2018} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@holoien_six_2016} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@stone_rates_2016} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@magorrian_rates_1999} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@dai_unified_2018} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@piran_disk_2015} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@guillochon_hydrodynamical_2013} has been ref
-erenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@lodato_recent_2015} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@lodato_stellar_2009} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@evans_tidal_1989} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@phinney_manifestations_1989} has been refere
-nced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@bonnerot_simulating_2020} has been reference
-d but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@lodato_multiband_2011} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@rees_tidal_1988} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@hills_possible_1975} has been referenced but
- does not exist, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on casestudy.pdf (6 pages, 1034504 bytes).
+ 48i,11n,62p,2223b,1630s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on casestudy.pdf (8 pages, 1127042 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 341 PDF objects out of 1000 (max. 8388607)
+ 272 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

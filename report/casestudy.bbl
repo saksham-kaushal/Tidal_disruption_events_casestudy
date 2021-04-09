@@ -81,6 +81,7 @@
       \strng{authorbibnamehash}{b991574de4846e67022005d1addab500}
       \strng{authornamehash}{b991574de4846e67022005d1addab500}
       \strng{authorfullhash}{b991574de4846e67022005d1addab500}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -115,6 +116,55 @@
       \verb https://www.nature.com/articles/333523a0
       \endverb
     \endentry
+    \entry{rees_dead_1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd8b6f1676482abb17638873262e598d}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd8b6f1676482abb17638873262e598d}
+      \strng{fullhash}{cd8b6f1676482abb17638873262e598d}
+      \strng{bibnamehash}{cd8b6f1676482abb17638873262e598d}
+      \strng{authorbibnamehash}{cd8b6f1676482abb17638873262e598d}
+      \strng{authornamehash}{cd8b6f1676482abb17638873262e598d}
+      \strng{authorfullhash}{cd8b6f1676482abb17638873262e598d}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{4944}
+      \field{shortjournal}{Science}
+      \field{title}{"Dead Quasars" in Nearby Galaxies?}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{247}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{817\bibrangedash 823}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1126/science.247.4944.817
+      \endverb
+      \verb{file}
+      \verb Rees - 1990 - Dead Quasars in Nearby Galaxies.pdf:/home/saksham/Zotero/storage/5WRDHCPW/Rees - 1990 - Dead Quasars in Nearby Galaxies.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.247.4944.817
+      \endverb
+      \verb{url}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.247.4944.817
+      \endverb
+    \endentry
     \entry{lodato_multiband_2011}{article}{}
       \name{author}{2}{}{%
         {{hash=5a247a6ad2d3c2a4a2d7fa645e528814}{%
@@ -134,8 +184,8 @@
       \strng{authorbibnamehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
       \strng{authornamehash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
       \strng{authorfullhash}{45cc0d19d8087f2fb5ce2ed9efebc8b9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Unambiguous detection of the tidal disruption of a star would allow an assessment of the presence and masses of supermassive black holes in quiescent galaxies. It would also provide invaluable information on bulge-scale stellar processes (such as two-body relaxation) via the rate at which stars are injected into the tidal sphere of inﬂuence of the black holes. This rate, in turn, is essential to predict gravitational radiation emission by compact object inspirals. The signature of a tidal disruption event is thought to be a fallback rate for the stellar debris on to the black hole that decreases as t−5/3. This mass ﬂux is often assumed to yield a luminous signal that decreases in time at the same rate. In this paper, we calculate the monochromatic light curves arising from such an accretion event. Differently from previous studies, we adopt a more realistic description of the fallback rate and of the super-Eddington accretion physics. We also provide simultaneous light curves in optical, ultraviolet ({UV}) and X-rays. We show that, after a few months, optical and {UV} light curves scale as t−5/12, and are thus substantially ﬂatter than the t−5/3 behaviour, which is a prerogative of the bolometric light curve, only. At earlier times and for black hole masses <107 M , the wind emission dominates: after reaching a peak of 1041–1043 erg s−1 at roughly a month, the light curve decreases steeply as ∼t−2.6, until the disc contribution takes over. The X-ray band, instead, is the best place to detect the t−5/3 ‘smoking gun’ behaviour, although it is displayed only for roughly a year, before the emission steepens exponentially.}
@@ -188,8 +238,8 @@
       \strng{authorbibnamehash}{f3182b9af81d6017a07cf4126390aebd}
       \strng{authornamehash}{f3182b9af81d6017a07cf4126390aebd}
       \strng{authorfullhash}{f3182b9af81d6017a07cf4126390aebd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A star coming too close to a supermassive black hole gets disrupted by the tidal force of the compact object in a tidal disruption event, or {TDE}. Following this encounter, the debris evolves into an elongated stream, half of which coming back to pericentre. Relativistic apsidal precession then leads to a self-crossing shock that initiates the formation of an accretion disc. We perform the first simulation of this process considering a parabolic encounter with a supermassive black hole, which has so far eluded investigations for computational reasons. This numerical issue is alleviated by using as initial conditions the outflow launched by the self-crossing shock according the local simulation of Lu \&amp; Bonnerot (2020). We find that the gas leaving the intersection point experiences numerous secondary shocks that result in the rapid formation of a thick and marginally bound disc. The mass distribution features two overdensities identified as spiral shocks that drive slow gas inflow along the mid-plane. Inward motion primarily takes place along the funnels of the newly formed torus, from which a fraction of the matter can get accreted. Further out, the gas moves outward forming an extended envelope completely surrounding the accretion flow. Secondary shocks heat the debris at a rate of a few times \$10{\textasciicircum}\{44\} {\textbackslash}, {\textbackslash}rm erg{\textbackslash}, s{\textasciicircum}\{-1\}\$ with a large fraction likely participating to the bolometric luminosity. These results pave the way towards a complete understanding of the early radiation from {TDEs} that progressively becomes accessible from observations.}
@@ -236,8 +286,8 @@
       \strng{authorbibnamehash}{ab3f273aee517e8eedc702da5e155f64}
       \strng{authornamehash}{ab3f273aee517e8eedc702da5e155f64}
       \strng{authorfullhash}{ab3f273aee517e8eedc702da5e155f64}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A young star cluster is a less contrived explanation than a massive black hole for many of the features seen in the Galactic center. However from a Copernican point of view, this explanation is less attractive than a black hole. The evidence for a {\textasciitilde} 10GM© black hole is becoming progressively less convincing, but the case against it is no stronger. We describe the development of a singular star cluster, as well as the processes of stellar disruption, merging, and gas accretion in such a cluster. Recently merged stars and tidally stripped giants may be detectable within an arcminute of the Galactic Center. We examine the physics of star formation in the inner parsecs of the galaxy, and the problem of maintaining the two parsec molecular torus.}
@@ -287,8 +337,8 @@
       \strng{authorbibnamehash}{23e549a3b0b08c7b476cb7a1e1975c33}
       \strng{authornamehash}{23e549a3b0b08c7b476cb7a1e1975c33}
       \strng{authorfullhash}{23e549a3b0b08c7b476cb7a1e1975c33}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We describe a three-dimensional, numerical calculation of the tidal disruption of a low-mass main-sequence star on a parabolic orbit around a massive black hole (Mh = K{\textasciicircum}M*). The postdisruption evolution is followed until hydrodynamic forces become negligible and the liberated gas becomes ballistic. We give the rate at which bound mass returns to pericenter after orbiting the hole once. We discuss processes that determine the time scale to circularize the debris orbits and allow an accretion torus to form. This time scale and the time scales for radiative cooling and accretion inflow determine the onset and duration of the subsequent flare in the {AGN} luminosity.}
@@ -345,8 +395,8 @@
       \strng{authornamehash}{381cca9969de8fb3e5f9c67da11880d4}
       \strng{authorfullhash}{afb1a3af9dc1076e203ad35f0b4803e1}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In this paper, we revisit the arguments for the basis of the time evolution of the flares expected to arise when a star is disrupted by a supermassive black hole. We present a simple analytic model relating the light curve to the internal density structure of the star. We thus show that the standard light curve proportional to t−5/3 only holds at late times. Close to the peak luminosity the light curve is shallower, deviating more strongly from t−5/3 for more centrally concentrated (e.g. solar type) stars. We test our model numerically by simulating the tidal disruption of several stellar models, described by simple polytropic spheres with index γ. The simulations agree with the analytical model given two considerations. First, the stars are somewhat inflated on reaching pericentre because of the effective reduction of gravity in the tidal field of the black hole. This is well described by a homologous expansion by a factor which becomes smaller as the polytropic index becomes larger. Secondly, for large polytropic indices wings appear in the tails of the energy distribution, indicating that some material is pushed further away from parabolic orbits by shocks in the tidal tails. In all our simulations, the t−5/3 light curve is achieved only at late stages. In particular, we predict that for solar-type stars, this happens only after the luminosity has dropped by at least 2 mag from the peak. We discuss our results in the light of recent observations of flares in otherwise quiescent galaxies and note the dependence of these results on further parameters, such as the star/hole mass ratio and the stellar orbit.}
@@ -410,8 +460,8 @@
       \strng{authornamehash}{2ebfe2b54fd2c13b614546c001d750fb}
       \strng{authorfullhash}{f0a3c1c434b369735b6ca5fe51d98751}
       \field{extraname}{2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we will review some recent developments in the theory of Tidal Disruption Events ({TDE}). In particular, we discuss how recent work has led to a reconsideration of the time evolution of the debris of the disrupted star, which in turn determines the lightcurve of the event. We discuss the efforts being currently made to understand how an accretion disc forms around these objects. Finally, we discuss whether we can expect these systems to undergo rigid precession as a consequence of the Lense–Thirring torques produced by a spinning black hole.}
@@ -465,8 +515,8 @@
       \strng{authorbibnamehash}{21f4f2999324f72f837edb6b398da15a}
       \strng{authornamehash}{21f4f2999324f72f837edb6b398da15a}
       \strng{authorfullhash}{21f4f2999324f72f837edb6b398da15a}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The disruption of stars by supermassive black holes has been linked to more than a dozen flares in the cores of galaxies out to redshift z ∼ 0.4. Modeling these flares properly requires a prediction of the rate of mass return to the black hole after a disruption. Through hydrodynamical simulation, we show that aside from the full disruption of a solar mass star at the exact limit where the star is destroyed, the common assumptions used to estimate , the rate of mass return to the black hole, are largely invalid. While the analytical approximation to tidal disruption predicts that the least-centrally concentrated stars and the deepest encounters should have more quickly-peaked flares, we find that the most-centrally concentrated stars have the quickest-peaking flares, and the trend between the time of peak and the impact parameter for deeply penetrating encounters reverses beyond the critical distance at which the star is completely destroyed. We also show that the most-centrally concentrated stars produced a characteristic drop in shortly after peak when a star is only partially disrupted, with the power law index n being as extreme as −4 in the months immediately following the peak of a flare. Additionally, we find that n asymptotes to ≃ − 2.2 for both low- and high-mass stars for approximately half of all stellar disruptions. Both of these results are significantly steeper than the typically assumed n = −5/3. As these precipitous decay rates are only seen for events in which a stellar core survives the disruption, they can be used to determine if an observed tidal disruption flare produced a surviving remnant. We provide fitting formulae for four fundamental quantities of tidal disruption as functions of the star's distance to the black hole at pericenter and its stellar structure: the total mass lost, the time of peak, the accretion rate at peak, and the power-law index shortly after peak. These results should be taken into consideration when flares arising from tidal disruptions are modeled.}
@@ -535,8 +585,8 @@
       \strng{authorbibnamehash}{57ac62dcb5fed8e64c5715dc0a87c305}
       \strng{authornamehash}{26cc1d5a2e1385267d31ac603ad3c433}
       \strng{authorfullhash}{57ac62dcb5fed8e64c5715dc0a87c305}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A tidal disruption event ({TDE}) takes place when a star passes near enough to a massive black hole to be disrupted. About half the star’s matter is given elliptical trajectories with large apocenter distances, and the other half is unbound. To form an accretion flow, the bound matter must lose a significant amount of energy, with the actual amount depending on the characteristic scale of the flow measured in units of the black hole’s gravitational radius ( erg). Recent numerical simulations have revealed that the accretion flow scale is close to the scale of the most bound initial orbits, cm from the black hole, and the corresponding energy dissipation rate is erg s−1. We suggest that the energy liberated during the formation of the accretion disk, rather than the energy liberated by subsequent accretion onto the black hole, powers the observed optical {TDE} candidates. The observed rise times, luminosities, temperatures, emission radii, and line widths seen in these {TDEs} are all more readily explained in terms of heating associated with disk formation rather than in terms of accretion.}
@@ -1123,8 +1173,8 @@
       \strng{authorbibnamehash}{a78117cc1c6b847703b7cf0912f9d458}
       \strng{authornamehash}{616bcff3834cb160c4d833a0dbdb40ae}
       \strng{authorfullhash}{a78117cc1c6b847703b7cf0912f9d458}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Galaxy mergers play a key role in the evolution of galaxies and the growth of their central supermassive black holes ({SMBHs}). A search for (active) {SMBH} binaries ({SMBHBs}) at the centers of the merger remnants is currently ongoing. Perhaps the greatest challenge is to identify the inactive {SMBHBs}, which might be the most abundant, but are also the most difficult to identify. Liu et al. predicted characteristic drops in the light curves of tidal disruption events ({TDEs}), caused by the presence of a secondary {SMBH}. Here, we apply that model to the light curve of the optically inactive galaxy {SDSS} J120136.02+300305.5, which was identified as a candidate {TDE} with {XMM}-Newton. We show that the deep dips in its evolving X-ray light curve can be well explained by the presence of a {SMBHB} at its core. A {SMBHB} model with a mass of the primary of {MBH} = 107 M☉, a mass ratio q ≃ 0.08, and a semi-major axis ab ≃ 0.6 mpc is in good agreement with the observations. Given that primary mass, introducing an orbital eccentricity is needed, with eb ≃ 0.3. Alternatively, a lower mass primary of {MBH} = 106 M☉ in a circular orbit fits the light curve well. Tight binaries like this one, which have already overcome the “final parsec problem,” are prime sources of gravitational wave radiation once the two {SMBHs} coalesce. Future transient surveys, which will detect {TDEs} in large numbers, will place tight constraints on the {SMBHB} fraction in otherwise non-active galaxies.}
@@ -1194,8 +1244,8 @@
       \strng{authorbibnamehash}{e2be36cdb8a4e796e9a7ab44795eaf7e}
       \strng{authornamehash}{37184242c9658dacff0a70e999614415}
       \strng{authorfullhash}{e2be36cdb8a4e796e9a7ab44795eaf7e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The existence of optical-ultraviolet Tidal Disruption Events ({TDEs}) could be considered surprising because their electromagnetic output was originally predicted to be dominated by X-ray emission from an accretion disk. Yet over the last decade, the growth of optical transient surveys has led to the identification of a new class of optical transients occurring exclusively in galaxy centers, many of which are considered to be {TDEs}. Here we review the observed properties of these events, identified based on a shared set of both photometric and spectroscopic properties. We present a homogeneous analysis of 33 sources that we classify as robust {TDEs}, and which we divide into classes. The criteria used here to classify {TDEs} will possibly get updated as new samples are collected and potential additional diversity of {TDEs} is revealed. We also summarize current measurements of the optical-ultraviolet {TDE} rate, as well as the mass function and luminosity function. Many open questions exist regarding the current sample of events. We anticipate that the search for answers will unlock new insights in a variety of fields, from accretion physics to galaxy evolution.}
@@ -1303,8 +1353,8 @@
       \strng{authorbibnamehash}{3e3c3ddc441f1ee653f1516be4f10d02}
       \strng{authornamehash}{3e3c3ddc441f1ee653f1516be4f10d02}
       \strng{authorfullhash}{29ee595d5a7fe94f86b096802d1f7419}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A supermassive black hole in the nucleus of a galaxy will be revealed when a star passes close enough to be torn apart by tidal forces and a ﬂare of radiation is emitted by the stream of stellar debris that plunges into the black hole. Since common active galactic nuclei have accreting black holes that can also produce ﬂares, a convincing demonstration that a stellar tidal disruption has occurred generally begins with a “normal” galaxy that has no evidence of prior nuclear activity. Here we report a luminous {UV} ﬂare from an elliptical galaxy at z p 0.37 in the Groth ﬁeld of the {GALEX} Deep Imaging Survey that has no evidence of a Seyfert nucleus from optical spectroscopy and X-ray imaging obtained during the ﬂare. Multiwavelength data collected at the time of the event, and for 2 years following, allow us to constrain, for the ﬁrst time, the spectral energy distribution of a candidate tidal disruption ﬂare from optical through X-rays. The luminosity and temperature of the radiation and the decay curve of the ﬂare are in excellent agreement with theoretical predictions for the tidal disruption of a star, and provide the strongest empirical evidence for a stellar disruption event to date.}
@@ -1595,8 +1645,8 @@
       \strng{authorbibnamehash}{64e06ff560485216a4e43f5ab8247c5a}
       \strng{authornamehash}{62bed9852469924af790612849005982}
       \strng{authorfullhash}{64e06ff560485216a4e43f5ab8247c5a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Radio observations of tidal disruption events ({TDEs})—when a star is tidally disrupted by a supermassive black hole ({SMBH})—provide a unique laboratory for studying outflows in the vicinity of {SMBHs} and their connection to accretion onto the supermassive black hole. Radio emission has been detected in only a handful of {TDEs} so far. Here we report the detection of delayed radio flares from an optically discovered {TDE}. Our prompt radio observations of the {TDE} {ASASSN}-15oi showed no radio emission until the detection of a flare six months later, followed by a second and brighter flare years later. We find that the standard scenario, in which an outflow is launched briefly after the stellar disruption, is unable to explain the combined temporal and spectral properties of the delayed flare. We suggest that the flare is due to the delayed ejection of an outflow, perhaps following a transition in accretion states. Our discovery motivates observations of {TDEs} at various timescales and highlights a need for new models.}
@@ -1628,74 +1678,70 @@
       \verb https://www.nature.com/articles/s41550-021-01300-8
       \endverb
     \endentry
-    \entry{wang_transient_2011}{article}{}
-      \name{author}{5}{}{%
-        {{hash=2712faee0b7f4c1f61608c6a2d4774ac}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Ting-Gui},
-           giveni={T\bibinithyphendelim G\bibinitperiod}}}%
-        {{hash=9f55f6db1dc564fc856e53f519cac56a}{%
-           family={Zhou},
+    \entry{alexander_radio_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5e616896f7cc3191fd15d4df21cb1940}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Kate\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c4e5a4f5cb588b2cdb2166cf5197c9d5}{%
+           family={Velzen},
+           familyi={V\bibinitperiod},
+           given={Sjoert},
+           giveni={S\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=0fc9eb96943fa074ce2a67915412ce8d}{%
+           family={Horesh},
+           familyi={H\bibinitperiod},
+           given={Assaf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d52be57aed51aabf637748ece44dc24f}{%
+           family={Zauderer},
            familyi={Z\bibinitperiod},
-           given={Hong-Yan},
-           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
-        {{hash=08f0e8fb3c145ce0ad0177bccd50d7cf}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Li-Fan},
-           giveni={L\bibinithyphendelim F\bibinitperiod}}}%
-        {{hash=5166562901476a571d1bc7ef5ccf05df}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Hong-Lin},
-           giveni={H\bibinithyphendelim L\bibinitperiod}}}%
-        {{hash=31686df3c51b5e5d71a2c35bf85c1d17}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Dawei},
-           giveni={D\bibinitperiod}}}%
+           given={B.\bibnamedelimi Ashley},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{ccc443dc63d038fccf2da696254da2d8}
-      \strng{fullhash}{3a2565365240282036e65ad1f6813bf9}
-      \strng{bibnamehash}{3a2565365240282036e65ad1f6813bf9}
-      \strng{authorbibnamehash}{3a2565365240282036e65ad1f6813bf9}
-      \strng{authornamehash}{ccc443dc63d038fccf2da696254da2d8}
-      \strng{authorfullhash}{3a2565365240282036e65ad1f6813bf9}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{namehash}{2c4e48cf21624804b494eb9736ba17fd}
+      \strng{fullhash}{a1706423a85d05c7e771996eb01072a0}
+      \strng{bibnamehash}{a1706423a85d05c7e771996eb01072a0}
+      \strng{authorbibnamehash}{a1706423a85d05c7e771996eb01072a0}
+      \strng{authornamehash}{2c4e48cf21624804b494eb9736ba17fd}
+      \strng{authorfullhash}{a1706423a85d05c7e771996eb01072a0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{3}
-      \field{issn}{0004-637X}
-      \field{journaltitle}{The Astrophysical Journal}
+      \field{abstract}{Radio observations of tidal disruption events ({TDEs}) probe material ejected by the disruption of stars by supermassive black holes ({SMBHs}), uniquely tracing the formation and evolution of jets and outflows, revealing details of the disruption hydrodynamics, and illuminating the environments around previously-dormant {SMBHs}. To date, observations reveal a surprisingly diverse population. A small fraction of {TDEs} (at most a few percent) have been observed to produce radio-luminous mildly relativistic jets. The remainder of the population are radio quiet, producing less luminous jets, non-relativistic outflows or, possibly, no radio emission at all. Here, we review the radio observations that have been made of {TDEs} to date and discuss possible explanations for their properties, focusing on detected sources and, in particular, on the two best-studied events: Sw J1644+57 and {ASASSN}-14li. We also discuss what we have learned about the host galaxies of {TDEs} from radio observations and review constraints on the rates of bright and faint radio outflows in {TDEs}. Upcoming X-ray, optical, near-{IR}, and radio surveys will greatly expand the sample of {TDEs}, and technological advances open the exciting possibility of discovering a sample of {TDEs} in the radio band unbiased by host galaxy extinction.}
+      \field{day}{29}
+      \field{issn}{1572-9672}
+      \field{journaltitle}{Space Science Reviews}
       \field{langid}{english}
-      \field{month}{10}
-      \field{note}{Publisher: {IOP} Publishing}
-      \field{number}{2}
-      \field{shortjournal}{{ApJ}}
-      \field{title}{Transient superstrong coronal lines and and broad bumps in galaxy {SDSS} J074820.67+471214.3}
+      \field{month}{6}
+      \field{number}{5}
+      \field{shortjournal}{Space Sci Rev}
+      \field{title}{Radio Properties of Tidal Disruption Events}
       \field{urlday}{7}
       \field{urlmonth}{4}
       \field{urlyear}{2021}
-      \field{volume}{740}
-      \field{year}{2011}
+      \field{volume}{216}
+      \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{85}
+      \field{pages}{81}
       \range{pages}{1}
       \verb{doi}
-      \verb 10.1088/0004-637X/740/2/85
+      \verb 10.1007/s11214-020-00702-w
       \endverb
       \verb{file}
-      \verb Full Text PDF:/home/saksham/Zotero/storage/XAM8N3E5/Wang et al. - 2011 - TRANSIENT SUPERSTRONG CORONAL LINES AND BROAD BUMP.pdf:application/pdf;Snapshot:/home/saksham/Zotero/storage/ZFK2VC5F/85.html:text/html
+      \verb Springer Full Text PDF:/home/saksham/Zotero/storage/S4SHPWML/Alexander et al. - 2020 - Radio Properties of Tidal Disruption Events.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://iopscience.iop.org/article/10.1088/0004-637X/740/2/85/meta
+      \verb https://doi.org/10.1007/s11214-020-00702-w
       \endverb
       \verb{url}
-      \verb https://iopscience.iop.org/article/10.1088/0004-637X/740/2/85/meta
+      \verb https://doi.org/10.1007/s11214-020-00702-w
       \endverb
     \endentry
     \entry{arcavi_continuum_2014}{article}{}
@@ -1872,6 +1918,76 @@
       \verb https://doi.org/10.1088/0004-637x/793/1/38
       \endverb
     \endentry
+    \entry{wang_transient_2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2712faee0b7f4c1f61608c6a2d4774ac}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ting-Gui},
+           giveni={T\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=9f55f6db1dc564fc856e53f519cac56a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Hong-Yan},
+           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=08f0e8fb3c145ce0ad0177bccd50d7cf}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Li-Fan},
+           giveni={L\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=5166562901476a571d1bc7ef5ccf05df}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Hong-Lin},
+           giveni={H\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=31686df3c51b5e5d71a2c35bf85c1d17}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Dawei},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccc443dc63d038fccf2da696254da2d8}
+      \strng{fullhash}{3a2565365240282036e65ad1f6813bf9}
+      \strng{bibnamehash}{3a2565365240282036e65ad1f6813bf9}
+      \strng{authorbibnamehash}{3a2565365240282036e65ad1f6813bf9}
+      \strng{authornamehash}{ccc443dc63d038fccf2da696254da2d8}
+      \strng{authorfullhash}{3a2565365240282036e65ad1f6813bf9}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{issn}{0004-637X}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{Publisher: {IOP} Publishing}
+      \field{number}{2}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{Transient superstrong coronal lines and and broad bumps in galaxy {SDSS} J074820.67+471214.3}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{740}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{85}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0004-637X/740/2/85
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/saksham/Zotero/storage/XAM8N3E5/Wang et al. - 2011 - TRANSIENT SUPERSTRONG CORONAL LINES AND BROAD BUMP.pdf:application/pdf;Snapshot:/home/saksham/Zotero/storage/ZFK2VC5F/85.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/0004-637X/740/2/85/meta
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/0004-637X/740/2/85/meta
+      \endverb
+    \endentry
     \entry{zhang_high-energy_2017}{article}{}
       \name{author}{4}{}{%
         {{hash=4287b5d2d3c96c71a7e12150347774d6}{%
@@ -1901,8 +2017,8 @@
       \strng{authorbibnamehash}{c5da410b1ecf69a300bc2c4d0062e276}
       \strng{authornamehash}{5d7e6cd85dc1cf52ee4194ea236bd94f}
       \strng{authorfullhash}{c5da410b1ecf69a300bc2c4d0062e276}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Tidal disruption events ({TDEs}) by supermassive or intermediate mass black holes have been suggested as candidate sources of ultrahigh-energy cosmic rays ({UHECRs}) and high-energy neutrinos. Motivated by the recent measurements from the Pierre Auger Observatory, which indicates a metal-rich cosmic-ray composition at ultrahigh energies, we investigate the fate of {UHECR} nuclei loaded in {TDE} jets. First, we consider the production and survival of {UHECR} nuclei at internal shocks, external forward and reverse shocks, and nonrelativistic winds. Based on the observations of Swift J1644+57, we show that the {UHECRs} can survive for external reverse and forward shocks, and disk winds. On the other hand, {UHECR} nuclei are significantly disintegrated in internal shocks, although they could survive for low-luminosity {TDE} jets. Assuming that {UHECR} nuclei can survive, we consider implications of different composition models of {TDEs}. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce {UHECR} observations, namely the observed composition or spectrum. The observed mean depth of the shower maximum and its deviation could be explained by oxygen-neon-magnesium white dwarfs, but they may be too rare to be the sources of {UHECRs}.}
@@ -1972,8 +2088,8 @@
       \strng{authornamehash}{b2b756e5e5280427eccd1778207288ce}
       \strng{authorfullhash}{fbdcc053810c06a0a5331177a63d36fd}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The recently discovered high-energy transient Swift J164449.3+573451 (Sw J1644+57) is thought to arise from the tidal disruption of a passing star by a dormant massive black hole. Modeling of the broadband emission suggests the presence of a powerful relativistic jet, which contributes dominantly to the observed X-ray emission. Here we suggest that protons can be accelerated to ultra-high energies by internal shocks occurring in the jets, but their flux is insufficient to account for the observed flux of ultra-high energy cosmic rays. High energy protons can produce {\textasciitilde}0.1-10 {PeV} neutrinos through photomeson interactions with X-ray photons. The large X-ray fluence (7x10{\textasciicircum}-4 erg cm{\textasciicircum}-2) and high photopion efficiency, together with the insignificant cooling of secondary mesons, result in bright neutrino emission expected from Sw J1644+57 if the jet composition is matter-dominated. One to several neutrinos may be detected by a Km{\textasciicircum}3-scale detector from one tidal disruption event similar to Sw J1644+57, thereby providing a powerful probe of the composition of the jets.}
@@ -2031,8 +2147,8 @@
       \strng{authorbibnamehash}{b00de015a31af279d190f4b0a2b6318f}
       \strng{authornamehash}{b00de015a31af279d190f4b0a2b6318f}
       \strng{authorfullhash}{b00de015a31af279d190f4b0a2b6318f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We study the production of high energy neutrinos in jets from the tidal disruption of stars by supermassive black holes. The diﬀuse neutrino ﬂux expected from these tidal disruption events ({TDEs}) is calculated both analytically and numerically, taking account the dependence of the rate of {TDEs} on the redshift and black hole mass. We ﬁnd that ∼ 10\% of the observed diﬀuse ﬂux at {IceCube} at an energy of about 1 {PeV} can come from {TDEs} if the characteristics of known jetted tidal disruption events are assumed to apply to the whole population of these sources. If, however, plausible scalings of the jet Lorentz factor or variability timescale with the black hole mass are taken into account, the contribution of the lowest mass black holes to the neutrino ﬂux is enhanced. In this case, {TDEs} can account for most of the neutrino ﬂux detected at {IceCube}, describing both the neutrino ﬂux normalization and spectral shape with moderate baryonic loadings. While the uncertainties on our assumptions are large, a possible signature of {TDEs} as the origin of the {IceCube} signal is the transition of the ﬂux ﬂavor composition from a pion beam to a muon damped source at the highest energies, which will also result in a suppression of Glashow resonance events.}
@@ -2100,8 +2216,8 @@
       \strng{authorbibnamehash}{3703f9156133ec2d6eac66a662311ff8}
       \strng{authornamehash}{a1cc816c61319c5629632e5c867b4435}
       \strng{authorfullhash}{3703f9156133ec2d6eac66a662311ff8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Gravitational waves and X-ray ﬂares are expected from tidal disruption of stars by a massive black hole. Using a relativistic smoothed particle hydrodynamics code, we investigate the fate of main-sequence and helium stars in plunge orbits passing near Schwarzschild or Kerr black holes of mass \$105–106 M . We show that quadrupole gravitational waves emitted during the tidal disruption process are described reasonably well by a point-particle approximation even in the strong-encounter case. An additional hydrodynamic calculation based on the Godunov method indicates that shocks develop for sufﬁciently high tidal compressions. The shock heating results in an X-ray ﬂare, which for solar-type stars disrupted by \$106 M black holes is in the {keV} range associated with the gravitational wave signal. The hardness and duration of the X-ray ﬂare may serve as a diagnostic of the mass of the central black hole.}
@@ -2133,6 +2249,53 @@
       \endverb
       \verb{url}
       \verb https://iopscience.iop.org/article/10.1086/424684
+      \endverb
+    \endentry
+    \entry{hayasaki_neutrinos_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b842493676f9f66470cb501ce7b0083}{%
+           family={Hayasaki},
+           familyi={H\bibinitperiod},
+           given={Kimitake},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b842493676f9f66470cb501ce7b0083}
+      \strng{fullhash}{9b842493676f9f66470cb501ce7b0083}
+      \strng{bibnamehash}{9b842493676f9f66470cb501ce7b0083}
+      \strng{authorbibnamehash}{9b842493676f9f66470cb501ce7b0083}
+      \strng{authornamehash}{9b842493676f9f66470cb501ce7b0083}
+      \strng{authorfullhash}{9b842493676f9f66470cb501ce7b0083}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tidal disruption events are an excellent probe for supermassive black holes in distant inactive galaxies because they emit bright multi-wavelength flares that last several months to years. {AT}2019dsg represents the first potential association of neutrino emission with such an explosive event.}
+      \field{day}{22}
+      \field{issn}{2397-3366}
+      \field{journaltitle}{Nature Astronomy}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{note}{Publisher: Nature Publishing Group}
+      \field{title}{Neutrinos from tidal disruption events}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/s41550-021-01309-z
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/saksham/Zotero/storage/DM3PBH23/s41550-021-01309-z.html:text/html;Submitted Version:/home/saksham/Zotero/storage/PC3DIJXX/Hayasaki - 2021 - Neutrinos from tidal disruption events.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41550-021-01309-z
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41550-021-01309-z
       \endverb
     \endentry
   \enddatalist
